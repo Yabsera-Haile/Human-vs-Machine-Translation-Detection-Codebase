@@ -1,0 +1,600 @@
+Physicians' Hand Hygiene per Shift: A Case Study
+At 10 a.m. on Tuesday, it's time for the operating room duty shift.
+This is your first day as the hospital's IPC lead.
+You have decided to join the on-call team to observe and learn about the ward’s routine practices.
+The physical layout of the surgical ward and the patient profile for that specific date are shown below.
+Dr. Lin is the physician on today's on-duty team.
+A resident and a medical student accompanied him.
+There are also operating room nurses on duty at the same time.
+You notice that there are many times during each round when hand hygiene should be performed.
+You have decided to review all duty shifts to reinforce hand hygiene practices among healthcare workers in the surgical ward.
+In healthcare settings, microorganisms such as bacteria, viruses, and fungi can spread through various routes.
+Without timely and proper cleaning, healthcare workers’ hands are a major factor in the patient-to-patient transmission of microorganisms.
+Timely hand hygiene can also prevent contamination of the healthcare environment (e.g., linens, surfaces, and patient-care equipment).
+The Five Moments approach is designed to stop transmission at all critical moments to ensure patient safety.
+During patient care, microorganisms and potential pathogens gradually colonize our hands.
+Poor hand hygiene increases the risk of contamination and poses a threat to patient safety.
+The purpose of practicing proper hand hygiene in this way is to remove soil, organic matter, and transient microorganisms from the hands.
+It cannot eliminate the resident microbiota on the skin.
+Hand hygiene is a general term that applies to handwashing, hand rubbing (e.g., using an alcohol-based handrub), or surgical hand antisepsis.
+Hand hygiene is a simple but important procedure, yet even healthcare workers often overlook its importance.
+Timely and effective hand hygiene protects patients, healthcare workers, and the healthcare environment from microbiological contamination by harmful pathogens.
+By following recommended hand hygiene practices, we can help protect patients either by preventing infections from occurring or by preventing the spread of existing ones.
+Therefore, simple measures such as practicing timely and effective hand hygiene can reduce the number of patients who acquire healthcare-associated infections (HAIs).
+A reduction in HAIs means fewer resources devoted to treating preventable infections, ultimately reducing morbidity and mortality.
+A reduction in HAIs will also reduce antibiotic use, thereby lowering antibiotic resistance.
+Therefore, hand hygiene is an essential health care measure that can save lives and money!
+Test: The Purpose of Hand Hygiene
+Now that you understand the role of hand hygiene in limiting the spread of microorganisms, you decide to reiterate the purpose of hand hygiene to the surgical ward staff.
+The resident physician asked, "I washed my hands once before making my rounds during my shift."
+Isn't that enough?
+The nurse manager tells you that she does not understand the relationship between hand hygiene and HAI.
+What did you say to her?
+Proceed to the next step to compare your answer.
+Test: the answer to "the purpose of hand hygiene."
+The resident physician asked, "I washed my hands once before starting my rounds during my shift."
+**
+Although handwashing at the start of the ward round is a sensible practice, it is insufficient to prevent the spread of microorganisms—certainly insufficient to prevent microorganisms from entering critical sites that pose an infection risk to patients.
+The Five Moments are a simple way to ensure that, based on the risk of transmission, hands are cleaned safely for patients and healthcare workers.
+This is why it is important to clean your hands using the correct method at the appropriate times.
+The nurse manager tells you she does not understand the relationship between hand hygiene and HAIs—what do you say to her?
+During their work, healthcare workers repeatedly come into contact with patients and with objects and equipment in the environment.
+Therefore, potential pathogens can be picked up and carried on the hands, allowing healthcare workers, when touching patients and their immediate environment, to transmit microorganisms capable of causing infection from one patient to another.
+Therefore, it is very important to consider and practice hand hygiene promptly and effectively to reduce the spread of HAIs.
+The Five Moments for Hand Hygiene
+Healthcare workers should perform hand hygiene according to the WHO Five Moments.
+The WHO Five Moments focus on contacts that occur within the patient zone during the provision of patient care.
+It presents a unified vision for all healthcare workers, trainers, and observers to enhance understanding of when to clean their hands.
+It consolidates all the hand hygiene indications recommended in the WHO Guidelines on Hand Hygiene and the CDC Guideline for Hand Hygiene in Health-Care Settings into the Five Moments for Hand Hygiene.
+Importantly, this user- and patient-centered approach aims to enhance usability and integrate with natural workflows, making it suitable for a wide range of care settings across the healthcare industry.
+The patient zone includes the patient and the surfaces and items temporarily dedicated to his or her use (shown with a dashed line in the Five Moments poster in Figure X-1).
+This usually includes the patient and all inanimate surfaces they have come into contact with or had direct physical contact with, such as bed rails, bedside tables, bedding, infusion tubing, and other medical equipment.
+As well as surfaces that healthcare workers frequently touch while caring for patients, such as monitors, knobs and buttons, and other touch surfaces.
+Before touching a patient, please clean your hands to prevent exposing the patient to viruses carried on your hands.
+Immediately clean your hands before touching any critical site that poses an infection risk to the patient, to prevent harmful bacteria—including those carried by the patient—from entering his or her body.
+After a risk of exposure to body fluids
+Clean your hands immediately after contact with a patient’s bodily fluids (including after removing gloves).
+This action will protect you and the healthcare environment from pathogens in blood and bodily fluids.
+After touching the patient and their surroundings, and when leaving the patient’s side, you must clean your hands to prevent the spread of harmful microorganisms to yourself and the healthcare environment.
+Even if you have not directly touched the patient, wash your hands after touching any objects or furniture around the patient to prevent harmful microorganisms from spreading from the patient area to other parts of the healthcare environment.
+Now that you’ve learned the five key moments for hand hygiene, let’s return to the surgical ward and add a few details.
+Please consider the opportunity to perform hand hygiene at each bedside.
+Let's first review the chances for Bed 1.
+The patient in bed 1 is about to undergo surgery.
+The ward round team performed hand hygiene at the sink before entering the patient area of Bed 1.
+Before the surgery, Dr. Lin took a verbal history regarding prophylactic antibiotics.
+While reviewing the case, the resident physician touched the medical chart at the foot of the bed.
+There was no contact with the patient in bed 1.
+After the discussion, the ward round team arrived at Bed 2.
+On the next page, please identify which of the five moments of hand hygiene should be applied to the care activities for the patient in Bed 1.
+Please think about why these operations are necessary or unnecessary.
+After submitting by clicking 'Send my answer,' click the 'Show explanation' box to verify your reasoning.
+Bed 2: Postoperative—hernia repair
+The patient in bed 2 underwent abdominal hernia repair surgery yesterday.
+An abdominal examination is performed by medical students.
+During the examination, the patient began to feel unwell and vomited at the bedside.
+The nurse cleaned up the vomit.
+After confirming that the patient's condition was stable, the rounding team moved on to Bed 3.
+On the next page, please determine which of the Five Moments for Hand Hygiene should be applied during care of the patient in Bed 2.
+Bed 3: Appendectomy - Postoperative
+The patient in bed 3 is recovering from an appendectomy.
+The patient is unable to move and has a urinary catheter bag.
+During the examination, Dr. Lin picked up the urinary catheter bag to check the urine output.
+The intern changed the dressing on the central venous catheter.
+After that, the ward round team continues with their other duties.
+Proceed to the next page to determine whether any of the five moments applies to patient care activities for Bed 3.
+Consider why they do or do not apply.
+After clicking "Upload Answer" to submit, click "Show Answer" to verify your reasoning.
+Wearing gloves is an important means of protecting your hands from contamination.
+If healthcare workers are wearing gloves, it does not mean they can ignore hand hygiene.
+In other words, wearing gloves is no substitute for hand hygiene.
+Precautions regarding hand hygiene and glove use include:
+Wear gloves when there is a possibility of contact with blood or other bodily fluids, mucous membranes, nonintact skin, potentially infectious materials, or chemicals (e.g., cleaning solutions).
+Perform hand hygiene before putting on gloves.
+Please remove your gloves after caring for the patient.
+Please do not wear the same pair of gloves when caring for multiple patients.
+When wearing gloves, if moving from a contaminated body site to a clean body site (including mucous membranes, nonintact skin, or medical equipment) within the same patient or environment, remove the gloves and perform hand hygiene during patient care.
+One example is to first dress a wound (non-intact skin) on the abdomen, and then perform a venotomy on the arm.
+Perform hand hygiene after removing gloves.
+It is important to know that, as a result of poor technique or undetected pinholes in the gloves, hand contamination frequently occurs during glove removal.
+Inserting unclean hands into the box of gloves may cause microorganisms to spread throughout the entire box.
+This is one of the reasons why hand hygiene should always be performed before putting on gloves and after taking them off.
+To learn more about the use of gloves and other types of personal protective equipment (PPE), please consider registering for our personal protective equipment module.
+Wash your hands thoroughly with soap and water.
+The purpose of washing your hands with soap and water is to remove dirt, organic matter, and microorganisms from your hands.
+Soap helps to mechanically remove debris, loosely attached microorganisms, and substances containing fats and oils, all of which are commonly present on dirty hands.
+Although the friction generated by rubbing the hands when washing with plain soap and water can remove loosely attached transient flora, the antimicrobial activity of plain soap, if present at all, is extremely low.
+Proper handwashing time is important—the amount of bacteria removed by washing for 30 seconds is clearly ten times that removed in 15 seconds.
+If done correctly, the entire handwashing process takes 40 to 60 seconds.
+In the following situations, it is recommended to wash your hands with soap and water (rather than using an alcohol-based hand sanitizer):
+If your hands are visibly soiled or contaminated with blood or other bodily fluids.
+When exposure to spore-forming pathogens is suspected or confirmed, including Clostridioides difficile (a bacterial infection that can cause severe diarrhea), wash hands with soap and water because the friction generated can physically remove spores from the hands.
+The images below provide a step-by-step guide to the correct way to wash your hands with soap and water.
+A PDF version of these steps, as included in the World Health Organization manual, can be downloaded here.
+0. Wet your hands with water.
+1. Use enough soap to cover all hand surfaces.
+2. Rub your hands together.
+3. Place the palm of your right hand on the back of your left hand, fingers interlaced, and vice versa.
+4. Palm to palm with fingers interlaced.
+5. Place the backs of your fingers against the palm of the other hand, with fingers interlaced.
+6. Clasp the fingers of the left hand in the right palm and rub in a circular motion; and vice versa.
+7. Clasp the right-hand fingers with the left palm and rub them in a rotating back-and-forth motion; do the same the other way around.
+8. Rinse your hands with water.
+9. Thoroughly dry your hands with a disposable towel.
+10. Use the towel to turn off the faucet.
+11. Your hand is safe now.
+Drying your hands after washing with soap and water is an important step because microorganisms spread more easily on wet skin surfaces than on dry ones.
+Thoroughly dry both hands using methods that do not contaminate or irritate them, such as:
+Air-dry (manual drying performed by moving both hands).
+Use paper towels or disposable cloths to dry your hands; towels should not be reused or shared, as shared towels can quickly become contaminated.
+Note: In healthcare facilities, using warm-air hand dryers to dry hands is not recommended, because forceful airflow can cause pathogens to spread via droplets.
+Practice using soap and water.
+Since you already know the correct way to wash your hands, please practice these techniques.
+Please ask a colleague to review the soap-and-water handwashing checklist and observe you while you wash your hands.
+Please ask him or her to give you feedback, then answer the questions on the next page to check your understanding.
+Use an alcohol-based hand rub (ABHR) to clean your hands.
+If hands are not visibly soiled, alcohol-based hand rub (ABHR) is the preferred method for hand hygiene because it is more effective at killing microorganisms than plain or antimicrobial soap and water, and it also has other significant advantages.
+The alcohols in alcohol-based hand rubs (ABHRs) can kill microorganisms by denaturing proteins (for example, by dissolving certain microbial components).
+It also has long-lasting activity, which means microorganisms take longer to proliferate on the hands.
+Cleaning hands with an alcohol-based hand rub (ABHR) is preferred over using soap and water, including:
+It takes less time—only 20 to 30 seconds.
+In a busy work environment, using an alcohol-based hand rub (ABHR) can save you time!
+Alcohol-based handrub (ABHR) can be placed directly at the point of care, making hand hygiene convenient and easy within the clinical workflow.
+An alcohol-based hand rub (ABHR) does not require a sink, water, or towels—hands can be air-dried.
+It is important to note that the active ingredient—alcohol—is flammable, so you should be careful and ensure that alcohol-based hand rubs (ABHR) are stored away from sources of ignition.
+The figure below shows the steps for cleaning your hands with an alcohol-based hand sanitizer.
+The PDF version of these steps, as included in the WHO manual, can be downloaded here.
+After reading the following steps, you can find the World Health Organization's surgical hand preparation formulation at the bottom of this page.
+1a.
+1b.
+With your palm cupped, apply the product to the entire palm and cover all surfaces of the hands.
+2. Rub your hands together ======
+3. Place your right palm on the back of your left hand, interlace your fingers, and vice versa.
+4. Palms facing each other, fingers interlaced =============
+5. Place the backs of your fingers against the opposite palm, with fingers interlaced.
+6. Rub the left fingers in the right palm with a rotating motion, and vice versa ====================
+7. Clasp the right-hand fingers with the left hand and rub with a twisting back-and-forth motion; and vice versa.
+The PDF version of the WHO-recommended handrub formulation from the WHO Guide to Local Production is available for download here.
+Practice using alcohol-based hand rub (hereinafter referred to as ABHR).
+Now that you understand the correct application of ABHR, please practice this technique.
+Have a colleague use the "Checklist for Hand Hygiene Using an Alcohol-Based Hand Rub" and observe your technique as you apply ABHR to your hands.
+Please ask him or her to give you feedback, then answer the questions on the next page to confirm your understanding.
+For facilities without piped water, low-cost, locally manufactured systems can help ensure that water is available for handwashing (see figure).
+Hand hygiene stations should be provided in the clinical and service areas (disinfection areas, laboratories, kitchens, laundries, shower rooms, etc.) of healthcare facilities.
+For handwashing, as long as soap is used, the water does not need to meet drinking-water standards—though one should strive to use clean water.
+For systems with water in a closed container, avoid immersing your hands in the container, as this will contaminate the water.
+Instead, someone should pour water over the user's hands.
+Soap should be placed where water does not easily accumulate, so that it can dry completely.
+Soap can be placed on a rack, hung in a net, or suspended by a rope.
+For systems with faucets, it’s best if the water can be shut off without using your hands (for example, long-handled faucets that can be turned off with an elbow).
+Thoroughly clean and dry containers and buckets daily to prevent microbial buildup.
+Additional quantities of containers and buckets may be required; otherwise, this system cannot be used during cleaning.
+Infections and skin wounds
+To reduce the risk of skin reactions arising from frequent use of soap (e.g., contact dermatitis) and other skin damage, it is important to promote good skin care practices to help maintain skin integrity, such as:
+The simultaneous use of soap and ABHR is not encouraged.
+Promote the use of ABHR to protect skin integrity (frequent handwashing with soap can cause contact dermatitis).
+Provide alternative hand hygiene products for healthcare workers with confirmed allergies or adverse reactions to the standard products used in healthcare facilities.
+The stratum corneum, hands, and forearms should be free of significant lesions (such as ulcers, abscesses, and tumors) and cuts.
+Severe cuts and abrasions should be covered with waterproof dressings.
+If you have an active lesion, do not provide direct patient care or participate in surgical procedures until it has healed.
+Nails, nail polish and jewelry =========
+Long nails, nail polish, and jewelry can compromise hand hygiene and promote bacterial growth.
+The spaces and crevices beneath nail enhancements or extensions and jewelry are difficult to clean and impede access to these areas.
+Natural nails should be kept relatively short, preferably not extending more than 0.5 cm (less than 1/4 inch) past the fingertips.
+Wearing artificial nails or nail extensions is not recommended when working in clinical areas.
+If you have nail polish on, you mustn’t rub it off.
+It is strongly recommended that you do not wear any jewelry, including rings.
+Additionally, you can hang the ring on a necklace and wear it around your neck.
+The surgical team should remove jewelry, including rings, bracelets, and watches, before performing the surgical hand scrub.
+Hand lotion and hand cream
+Hand lotion and hand cream should be used with caution.
+If used as shared items, lotions and tube-packaged face creams may lead to cross-contamination.
+Hand lotions, hand creams, or moisturizing skin care products can be used to reduce dryness and contact dermatitis caused by frequent handwashing as part of hand hygiene.
+Do not use oil-based hand creams containing petroleum jelly, as they may damage latex rubber gloves.
+Religious/Cultural Considerations
+The healthcare facility’s infection prevention and control team should consult with staff to identify and address any religious concerns related to hand hygiene and the products used for hand hygiene.
+The infection prevention and control team should seek the advice of religious leaders and provide staff with religiously acceptable alternatives.
+Hand hygiene is an important component of infection prevention and control.
+This module explains in detail how performing hand hygiene at the appropriate times helps prevent the spread of harmful microorganisms.
+In real-life moments, you can learn why hand hygiene must be performed at those critical times.
+Now you can use soap and water, as well as ABHR, to demonstrate the correct hand hygiene techniques.
+Informed consent is a process, the outcome of which is generally documented on a consent form.
+Adapt consent procedures when working with child survivors.
+A parent or guardian must sign the consent form, unless they are suspected of being the perpetrator of the offense.
+Older children or adolescent girls may be able to give their own consent.
+Special procedures may be required for children.
+Check the legislation and local regulations.
+Parents or legal guardians are normally responsible for providing informed consent on behalf of the child for relevant clinical care, until the child or adolescent girl is legally authorized to do so.
+However, in situations where it is in the best interests of the child or adolescent, informed consent may be sought directly from the child or adolescent.
+Mandatory declaration
+Parents or legal guardians are normally responsible for giving informed consent on behalf of the child for relevant clinical care, until the child or adolescent girl is legally authorized to do so.
+Parents or legal guardians are normally responsible for providing informed consent on behalf of the child for relevant clinical care, until the child or adolescent is legally authorized to do so.
+To take a child's history, one must have basic knowledge of child development.
+You will find further information on the care of child survivors in the "Special Considerations" module.
+Show empathy and don't pass judgment.
+Use a calm tone of voice and maintain eye contact if it is culturally appropriate for the survivor.
+Explain what you will do at each step.
+If the interview takes place in the examination room, keep medical instruments out of sight until you need them; they can indeed be frightening or intimidating for the survivor.
+It is important not to force the survivor to talk about her assault if she doesn't want to.
+Do not pressure female survivors to share their personal experiences beyond what is absolutely necessary to provide medical care and beyond what they are naturally willing to share, as this may exacerbate certain psychological problems.
+However, when a rape survivor clearly expresses the desire to talk about what happened to her, it is very important to allow her to do so and to listen to her.
+The survivor may have already reported the rape to the police or social services.
+Read carefully all the documents she brings with her before taking down the history of events.
+Do not ask them to tell their version of events twice unless it is absolutely necessary.
+Do not ask questions that have already been asked and documented by other people involved in the case.
+Do not ask questions that are not related to the provision of medical care and referral to specialist services.
+Avoid any distractions or interruptions.
+Let the survivor tell her version of events as she wishes.
+Let her go at her own pace.
+Document the facts in their own words.
+Try to see things through, but don’t force it.
+Questions should be asked gently and at the survivor's pace.
+Avoid questions that imply blame, such as "What were you doing there alone?" or that are not relevant, such as "Were you a virgin?"
+Take the time to gather all the necessary information, without rushing.
+Follow the history and examination form.
+The Examination, Treatments, Advice, and Referral sections will be described in more detail in the upcoming STEPS.
+Here are the sections of a sample history and examination form.
+Here is the general information that must be collected:
+Name, address, sex and date of birth (or age in years)
+The date and time of the examination - The date and time of the examination are very important because treatment-related decisions must be made on the basis of this information.
+Names and roles of any staff member or any trusted person present during the interview and examination - This refers to the trusted person or the trained guardian.
+Moreover, it may be the trusted person the survivor requested.
+The police must not be present during the survivor's examination.
+When you ask the survivor to describe the assault:
+Ask the survivor to describe what happened - Make sure to describe the facts in the survivor's own words.
+Let the survivor speak at her own pace.
+Do not interrupt to ask for details.
+Follow up with additional questions once she has finished giving her account of what happened.
+Explain to her that she doesn't have to tell you anything that makes her uncomfortable.
+Only the information necessary for the provision of medical care must be requested — This information may be confirmed during the medical examination.
+Only information essential to the provision of medical care should be requested - such information may be confirmed during the medical examination.
+Female survivors should avoid describing the details of the assault that are particularly painful or traumatic.
+It is important to fully understand what happened in order to check for any injuries and to assess the risk of pregnancy and of STIs or HIV.
+However, do not force the survivor to tell you anything she doesn't want to.
+Instead, explain to the survivor what you need to understand and why.
+Reassure her about confidentiality if she hesitates to provide detailed information for confidentiality reasons.
+Don't ask for details that aren't essential to provide medical treatment.
+Here are some points to consider when collecting the survivor's medical history:
+If the assault occurred within the past 72 hours, try to find out whether the survivor has bathed, urinated, defecated, vomited, used a vaginal douche, or changed clothes since the assault.
+All of these actions risk affecting the forensic evidence that can be collected.
+Information on existing health problems, allergies, medication use, vaccination, and serological testing will help you determine the most appropriate treatment to provide and the necessary advice and follow-up health care.
+Ask for details on contraceptive use and the date of the last menstrual period.
+This information helps you determine the evidence you can collect.
+The survivor's general health status.
+The specific condition of the survivor's genital and anal areas.
+A record of the laboratory tests performed.
+A register of the forensic evidence collected.
+A register of the advice provided, referrals, and follow-up activities.
+A record indicating who conducted the examination and when it was conducted.
+Diagrams of the front and back of a female survivor and of male and female genitalia intended to record the location and size of injuries.
+The main objective of examining a rape survivor is to determine what medical care she should receive.
+Forensic evidence must also be collected to help the survivor obtain legal redress, if possible and if she so wishes.
+However, in many cases, the ability to process forensic evidence or to use it in legal proceedings is extremely limited, if not non-existent.
+Especially in humanitarian contexts.
+For more information on the collection of forensic evidence, see Appendix 3 of this document.
+Severe medical complications include:
+Major trauma to the genital region, head, chest, or abdomen.
+Offer a full examination if the survivor presents within 72 hours after the rape.
+Here are some guidelines for the physical examination of survivors who present within 72 hours of the assault:
+Take note of the survivor's mental and emotional state — is the survivor withdrawn, crying, calm, etc.?
+Never ask the survivor to undress or to uncover herself completely—first examine the upper part of her body, then the lower part.
+Give him something to cover himself with.
+Systematically examine the survivor’s body, paying particular attention to the areas she mentioned in her account - Begin the examination with the vital signs and the hands and wrists rather than the head, as this is more reassuring for the survivor.
+Remember to look in the eyes, nose, and mouth, in and behind the ears, and on the neck.
+Note the stage of puberty in children.
+Pay particular attention to the parts of the body the survivor mentions and to the possible effects of what happened to her.
+The survivor may have bite and punch marks, restraint marks on the wrists, missing clumps of hair, or ruptured eardrums resulting from a slap.
+If the survivor reports having been strangled, look for petechial hemorrhages in the eyes.
+Examine the part of the body that was in contact with the perpetrator during the rape to see if there are injuries.
+Carefully document all your findings on the examination form and the survivor’s diagrams—be sure to note the type, size, color, and shape of any bruises, lacerations, and petechiae.
+Collect samples of any foreign material found on the survivor’s body in accordance with the local evidence collection protocol. Samples may include blood, saliva, semen, nail fragments, swabs from bite marks, etc.
+Use standard medical terminology to describe physical injuries on the forms - Do not use abbreviations or your own vocabulary when filling out the forms.
+Note: Less than 72 hours - a full examination may be offered.
+Examination of the genital region, anus, and rectum
+Even when the genitals of adult women are examined immediately after rape, injuries are not necessarily found.
+Note the location of any injury, abrasion, or bruise on the diagram and the examination form.
+Note the survivor's position during each exam:
+Lying on the back, on the stomach, kneeling, or on the side for anal examination.
+For a genital examination, systematically inspect, in the following order, the mons pubis, the inner thighs, the perineum, the anus, the labia majora and minora, the clitoris, the urethra, and the introitus:
+Note any scars from genital mutilation or previous deliveries.
+Check for genital injuries, such as bruises, scratches, abrasions, and tears (often located on the posterior fourchette).
+Check for any injuries at the introitus by holding the labia at the posterior edge between the index finger and thumb and gently pulling outward and downward.
+Note the location of any fresh or healed lesion at the introitus and in the vaginal mucosa.
+If you are collecting evidence, take samples in accordance with the local evidence collection protocol.
+If you are collecting samples for DNA analysis, take swabs around the anus and perineum before sampling the vulva to avoid any contamination.
+A rectal examination may only be performed if the survivor reports anal penetration or if you observe bleeding or other signs.
+For the rectal exam, the survivor must sometimes be in a different position than for the genital exam, and this must be explained to her.
+Note the shape and dilation of the anus.
+Note any lesions at the anus, the presence of fecal matter on the perianal skin, and bleeding due to rectal tears.
+If indicated by the history, collect rectal samples according to the local evidence collection protocol.
+If there has been vaginal penetration
+An internal examination using a speculum is very delicate and should be performed only if there has been vaginal penetration and there is bleeding, pain, or foul‑smelling discharge, or to reassure the survivor that there are no serious injuries.
+Keep in mind that this may trigger memories of traumatic events and must be done with the utmost care and the survivor's consent.
+*(See the module on special considerations for more information on the examination of children).
+Under adequate lighting, inspect the cervix, then the posterior fornix and the vaginal mucosa to detect any trauma, bleeding, and signs of infection.
+If you are collecting evidence, take samples and collect vaginal secretions in accordance with the local evidence collection protocol.
+If indicated by the history and the remainder of the examination, perform a bimanual palpation of the cervix, uterus, and adnexa to look for signs of abdominal trauma, pregnancy, or infection.
+If necessary, perform a rectovaginal examination and examine the rectal region to detect any trauma, rectovaginal lesions or fistulas, bleeding, and discharge.
+In case of bleeding, pain, or the presence of a foreign body, refer the patient to a hospital.
+Examination and collection of evidence after 72 hours
+Even if no injuries are found on the survivor, she may feel as if she has some.
+A thorough examination, followed by confirmation that no physical harm has been caused, can be a great relief for the survivor and may be the primary reason for seeking care.
+It is also important to explain to the survivor that genital injuries heal quickly and that the absence of injuries does not necessarily mean that she has not been raped or injured.
+If the vaccine and the immunoglobulin are administered at the same time, it is important to use separate needles and syringes, as well as different injection sites.
+Advise female survivors to follow the vaccination schedule (second dose after 4 weeks, third dose between 6 months and 1 year).
+Treat physical injuries and provide care to the injured: In the event of skin or mucous membrane lesions, tetanus prophylaxis must be administered, unless the survivor has been fully vaccinated.
+Treat physical injuries and provide care to the injured: In case of lesions of the skin or mucous membranes, tetanus prophylaxis must be administered, unless the survivor has been fully vaccinated.
+Use this table to decide whether to administer tetanus toxoid and tetanus immune globulin, if they are available.
+Tetanus immunoglobulin - which provides passive protection.
+Tetanus immunoglobulin - which provides passive protection.
+If a woman presents within one week after the rape and an early pregnancy is detected at this stage, either by a pregnancy test or by history and examination, inform the woman that this cannot be the result of the rape.
+You must refer the survivor to prenatal services early because her pregnancy is at risk of complications.
+Progestin-only (levonorgestrel 1.5 mg as a single dose or two 0.75 mg tablets)
+Progesterone and estrogen combined (100 µg of ethinyl estradiol + 0.5 mg of levonorgestrel, to be repeated 12 hours later)
+If she has used an effective contraceptive method (pills, injectables, implants, IUD, female sterilization), it is unlikely that she will become pregnant as a result of rape.
+If her last menstrual period began within the seven days preceding the assault, pregnancy is unlikely.
+Emergency contraception can help a patient avoid pregnancy, but it is not 100% effective.
+If her next period is more than a week late, she must return for a pregnancy test.
+If she has had other unprotected sex since her last menstrual period, she may already be pregnant.
+A pregnancy test can confirm whether she was pregnant before the rape.
+In this case, emergency contraceptive pills will not work, but they will not be harmful to the pregnancy.
+Emergency contraceptive pills will not prevent pregnancy the next time the woman has sex.
+Provide the survivor with condoms and refer her to family planning services, if she wishes.
+If the survivor is a child who is approaching or has reached menarche, emergency contraceptive pills can be administered to prevent pregnancy.
+Nevirapine is contraindicated for PEP following a rape due to the high risk of toxicity.
+HIV testing is recommended, but is not a prerequisite for PEP.
+Repeat the test at 3 and 6 months, if the survivor consents.
+Prevention of HIV transmission after rape is not the same as the treatment provided to people living with HIV or AIDS.
+Before starting your shift, make sure that staff are informed about the indications for PEP and how to advise survivors on this issue, or draw up a list of the names and addresses of service providers to whom to refer them.
+PEP for rape survivors is available in some national health facilities.
+It can also be ordered as part of the Interagency Emergency Health Kits (IEHK) and the Reproductive Health (RH) kits.
+The risk of HIV transmission can be high if the survivor has been exposed to potentially infected bodily fluids (semen, blood) during vaginal, anal, or oral sex, or through contact with broken skin or damaged mucous membranes (especially in regions with a high prevalence of HIV).
+Explain to the survivor that the full 28-day course is indispensable.
+If a survivor discovers that she has forgotten to take a dose within 12 hours (for a once-daily regimen) or within 6 hours (for a twice-daily regimen), she should take the missed dose immediately.
+To avoid missed doses, it may be helpful to take the prescribed dose at the same time each day or to set a scheduled reminder.
+Nearly half of people on PEP experience side effects, such as nausea, fatigue, and headaches.
+In most cases, side effects subside within a few days.
+It is important to complete the PEP treatment to ensure its effectiveness.
+Offer an HIV screening test and counseling at the first visit.
+Perform an HIV test only if the survivor gives her consent and if PEP and HIV treatment are available on site.
+If the HIV test result is positive, refer her to an HIV-specific treatment and care service.
+Although the short course of PEP cannot harm a person whose HIV status is unknown and who is in fact HIV-positive, survivors who are known to be HIV-positive should not be offered PEP.
+Although PEP cannot cause harm, no benefit is expected, and it is possible to create short-term resistance.
+People known to be HIV-positive should be properly counseled and referred to special programs for people living with HIV (PWIH), such as home-based care, nutritional supplements, treatment of opportunistic infections, and ART if necessary.
+A three-drug regimen is recommended for pregnant women.
+Although dolutegravir (DTG) appears to be safe during pregnancy, exposure to DTG during the periconception period may be associated with neural tube defects.
+This concern must be offset by improved efficacy and overall tolerability of the drug.
+Efarivenz is a safe and effective alternative for pregnant women, although side effects may affect the success rate.
+Blood tests for toxicity monitoring are generally not necessary and should only be performed if the survivor's clinical condition warrants it.
+Female survivors must receive a full 28-day supply at the first visit.
+Ceftriaxone 250 mg intramuscularly, single dose (for gonorrhea) plus azithromycin 1 g orally, single dose (for Chlamydia infection and incubating syphilis).
+If injection is not possible, replace ceftriaxone with cefixime (400 mg as a single dose).
+There is no information on the incidence of HBV infection following rape.
+However, HBV is present in semen and vaginal secretions and is easily transmitted during sexual intercourse.
+In countries where infant immunization programs routinely use the hepatitis B vaccine, a female survivor may already have been fully vaccinated.
+If the vaccination record confirms it, no additional dose of hepatitis B vaccine is required.
+If possible, rape survivors should receive the hepatitis B vaccine within 14 days of the assault.
+The usual vaccination schedule is at 0, 1 and 6 months.
+However, this may vary depending on the products and parameters.
+Administer the vaccine by intramuscular injection into the deltoid muscle (adults) or into the anterolateral thigh (infants and children).
+Do not inject into the buttocks, as this is less effective.
+The vaccine is safe for pregnant women and for people with chronic or prior HBV infection.
+It can be administered at the same time as the tetanus vaccine.
+The hepatitis B virus can be sexually transmitted.
+Therefore, rape survivors should be immunized against hepatitis B, particularly in densely populated settings.
+Ask about previous hepatitis B vaccinations. Answer according to the table.
+If in doubt, run a test first whenever possible.
+If the person is already immunized (presence of hepatitis B surface antibodies in the serum), no further vaccination is necessary.
+If the test is not possible, administer the vaccine.
+A vaccine without hepatitis B immune globulin, or HBIG, may be used.
+Administer the vaccine intramuscularly into the deltoid region of the arm.
+Concerns about HIV and STIs
+Men and women may be concerned about the possibility of being infected with HIV following a rape.
+Although the risk of contracting HIV during a single consensual sexual encounter is low, these concerns may be warranted in the case of rape, particularly in settings where the prevalence of HIV and STIs is high.
+It is essential to provide sound and compassionate advice on this issue.
+The survivor may be referred to an HIV/AIDS counseling service, if one exists.
+Give her advice on the signs and symptoms of possible STIs and when she should return for a follow-up consultation.
+The health professional must also discuss with the survivor the risk of transmitting HIV or an STI to her partners following a rape.
+Prevention or management of pregnancy after 72 hours
+All legally available options must be discussed with the woman, regardless of the personal beliefs of counselors, medical staff, or other people involved, to enable her to make an informed decision.
+There may be intake and adoption services in your area.
+What is this module about?
+This module includes an introduction to the materials and will introduce the fundamental beliefs regarding antimicrobial prescriptions.
+Basic competencies for prescribing antimicrobials
+The online course is going to start.
+The online course is going to begin.
+Upon completion of this course, participants should be able to understand the basic competencies of antimicrobial stewardship and how these can be applied in common clinical situations.
+Click the "Next" button to begin the first module.
+What is this module about?
+At the end of this module, the participants will be able to:
+1. define the principles for properly prescribing empiric antimicrobials;
+2. consider epidemiological and patient-related factors when prescribing antimicrobial treatments;
+3. Use clinical and laboratory data to reassess the appropriateness of antimicrobial therapy throughout the course of the patient's illness.
+This module highlights the Basic Competencies C1, C2, and C5.
+1. understand the basic concepts of the pharmacokinetics/pharmacodynamics of antimicrobials;
+2. describe the oral bioavailability of antimicrobials;
+3. To illustrate the concept of time-dependent antimicrobials and describe the optimization of beta-lactam antimicrobial use through prolonged infusion.
+This module highlights the Basic Competencies C2, C3, and C5.
+1. highlight the mechanisms by which microorganisms develop antimicrobial resistance;
+2. illustrate the emergence and global spread of drug-resistant organisms;
+3. Demonstrate the use of clinical guidelines to choose the appropriate empiric antimicrobial therapy.
+recognize that most reported penicillin allergies are not confirmed by testing and expose patients to unnecessary harm;
+2. understand diagnostic tests, including skin tests, to confirm an antimicrobial allergy;
+3. Use strategies to determine whether cephalosporins can be used in patients with penicillin allergy.
+1. understand the prevalence and implications of contaminated urine cultures and asymptomatic bacteriuria;
+2. to illustrate the complexity of using urinalyses and urine cultures to diagnose urinary tract infections;
+3. Demonstrate the use of the antibiogram and local guidelines for the treatment of urinary tract infections.
+to effectively use initial assessments to determine appropriate empirical antimicrobial therapy, highlighting the importance of making a correct diagnosis;
+2. use patient-specific clinical data to reassess the appropriateness of antimicrobial therapy;
+3. Recognize the role that non-antimicrobial treatments play in preventing bacterial diseases and the role of physicians in educating patients about these options (vaccines).
+1. Contrast the epidemiologic and treatment strategies for soft-tissue infections and for purulent and nonpurulent skin infections, highlighting the routes of administration;
+2. Identify the initial clinical presentation to determine which specimens should be sent for culture;
+3. Test ways to optimize the use of antimicrobials to treat common skin and soft tissue infections.
+1. Describe appropriate sample collection techniques for blood cultures in order to reduce opportunities for contamination, which can lead to inappropriate use of antimicrobials;
+2. Review the protocol for appropriately prescribing antimicrobial therapy to patients with suspected bloodstream infections (BSIs);
+3. Try collaboration options with the microbiology and clinical diagnostic services that lead to more appropriate use of antimicrobials.
+1. formulate the principles for the use of antimicrobials in surgical prophylaxis;
+2. Describe how key protocols specific to each center can improve the use of antimicrobials for surgical prophylaxis;
+3. Assess the importance of a preoperative dose and limit the duration of postoperative antimicrobial dosing.
+1. Understand the epidemiology of infections that cause acute pharyngitis;
+2. use clinical prediction scores and microbiological tests to identify those who may benefit from antimicrobial treatment;
+3. Identify communication tools that can be used to educate patients about their diagnoses and the appropriate use of antimicrobials.
+1. Recognize the limited number of clinical situations of acute diarrhea that require antimicrobial therapy;
+2. use cultures and antibiograms to determine an appropriate empiric treatment for traveler’s diarrhea and, if indicated by the physician, prescribe treatment;
+3. understand the role that physicians play in reducing the use of antimicrobials purchased without a prescription for acute diarrhea in some settings.
+1. to understand how the emergence of microbial resistance in a particular hospital endangers patients with hospital-acquired infections, such as ventilator-associated pneumonia;
+2. to illustrate the importance of obtaining appropriate specimens for culture and to use these results to optimize antibiotic use;
+3. Emphasize an appropriate duration of treatment for ventilator-associated pneumonia.
+1. Understand the importance of precise physical examination findings to distinguish which middle ear conditions respond to antibiotics and which do not;
+2. promote adherence to evidence-based clinical practice guidelines in the treatment of acute otitis media and otitis media with effusion;
+3. Test non-antimicrobial treatments and preventive measures to treat patients with acute otitis media.
+This module highlights the Basic Competencies C1, C2, and C3.
+For further learning: otoscopic examination:
+• Shaikh N, Hoberman A, Kaleida PH, PloofDL, ParadiseJL.
+2010;362(20):e62.
+List of developers, reviewers and advisors
+Marisa Holubar, MD MS Clinical Assistant Professor, Infectious Diseases; Associate Director, Stanford Antimicrobial Safety and Sustainability Program; Stanford University School of Medicine
+Elizabeth Robilotti, MD, MPH Assistant Attending Physician, Infectious Diseases; Associate Director, Infection Control, Memorial Sloan Kettering Cancer Center
+Stan Deresinski, MD Clinical Professor, Infectious Diseases; Director, Stanford Antimicrobial Safety and Sustainability Program, Stanford University School of Medicine
+Tjalling Leenstra, MD PhD, Head of the WHO Collaborating Centre for the Epidemiology and Surveillance of Antimicrobial Resistance, Centre for Infectious Disease Control, National Institute for Public Health and the Environment, the Netherlands
+Muna ABU SIN, MD, MSc**, Robert Koch Institute, Department of Infectious Disease Epidemiology, Healthcare-associated infections, surveillance of resistance and antibiotic consumption, Germany
+Hrachuhi Ghazaryan, MD, General Pediatrician, Head of the Department of General Pediatrics, Arabkir Joint Medical Center, Assistant Professor at Yerevan State Medical University named after M. Heratsi, Chair of Pediatrics No. 2, Yerevan, Armenia.
+Saskia Nahrgang, MD, MPH, Technical Officer, Antimicrobial Resistance Control Programme, WHO Regional Office for Europe
+Danilo Lo Fo Wong, PhD, Programme Manager, Programme for the Control of Antimicrobial Resistance, WHO Regional Office for Europe
+You have reached the end of the online course.
+If you have completed at least 80% of the course material, go to the "Progress" tab to download your confirmation of participation.
+If you have completed at least 80% of the course material, go to the "Progress" tab to download your confirmation of participation.
+If you have completed at least 80% of the course material, go to the "Progress" tab to download your confirmation of participation.
+1.6 It's time to get ready to start!
+In the previous session, you learned about the End TB Strategy from the diagnostic perspective and analyzed the key concepts, guiding principles, and ethical considerations.
+In the next session, you will learn about the epidemiological characteristics of bacteriologically confirmed TB and drug-resistant TB.
+You will also learn about the WHO guidelines on rapid diagnostic tests to detect TB worldwide and why these tests are important.
+The objective of this guidance document is to help people working to end TB in the 21st century by providing practical answers to fundamental ethical issues, and to enable patients, families, civil society, health professionals, and policymakers to move forward and overcome current challenges.
+This ethical guidance on TB will then underpin the difficult decision-making processes when formulating recommendations and serve as a basis for a more detailed analysis of complex ethical challenges.
+WHO 2015.
+This document describes the rationale, principles, pillars, and components of the End TB Strategy.
+WHO 2022 update.
+This document first provides an understanding of the End TB Strategy’s vision, objective, goals, and milestones, and of the proposed operational indicators to measure the progress achieved.
+The basic elements of the implementation of the strategy's principles, pillars, and components are then described.
+• United Nations Sustainable Development Goals website.
+The United Nations (UN) Sustainable Development Goals (SDGs) are a call to action for all countries—poor, rich, and middle-income—to promote prosperity while protecting the planet.
+The SDGs recognize that ending poverty must go hand in hand with strategies that foster economic growth and respond to a range of social needs, including education, health, social protection, and employment opportunities, while addressing climate change and protecting the environment.
+This website presents the SDGs and the progress made in relation to them.
+This document presents the main TB targets for 2022, as approved at the United Nations High-Level Meeting on TB on September 26, 2018.
+• Resolution A/RES/73/3 adopted by the United Nations General Assembly in 2018.
+Resolution A/RES/73/3, adopted by the United Nations General Assembly on October 10, 2018, following its approval at the high-level meeting of the General Assembly on the fight against TB on September 26, 2018.
+• Resolution A/RES/78/5 adopted by the United Nations General Assembly in 2023.
+Resolution A/RES/78/5, adopted by the United Nations General Assembly on 5 October 2023, following its approval at the General Assembly’s high-level meeting on the fight against TB on 22 September 2023.
+The multisectoral accountability framework for TB aims to support effective accountability of governments and all stakeholders at the global, regional, and national levels, with the purpose of accelerating progress toward ending the TB epidemic.
+It also promotes its full alignment with the End TB Strategy and the 2030 Agenda for Sustainable Development.
+Product profiles help align the needs of end users with the goals and requirements that product manufacturers must meet regarding the performance and operational characteristics of a diagnostic test.
+This report summarizes a meeting convened by the WHO in April 2014, aimed at building consensus around four product profiles classified as high priority by stakeholders.
+This document presents the product profile of a test to detect the progression of TB infection to active TB.
+The product profile defines key characteristics such as intended use, performance, operational characteristics, and pricing.
+The document also includes an evaluation framework for tests that predict progression to TB disease, using standardized study designs and evaluation protocols.
+This report details the range of new TB diagnostic tools under development and highlights how the tools are expected to meet the product profiles and where they might fall short.
+The scientific and technological aspects that underpin the tools are also described to some extent, and the considerations related to their implementation in healthcare settings are analyzed.
+The report is organized according to the product profiles defined by WHO and FIND.
+This document provides practical guidance on the implementation of WHO recommendations and on international best practices for strengthening TB laboratories.
+This manual is intended for national TB programs.
+It proposes simple steps for developing a strategic plan for the national TB-specific laboratory.
+A key intervention in strengthening laboratory services is the implementation of a quality management system.
+The International Organization for Standardization (ISO) defines a quality management system as a "management system that directs and controls an organization with regard to quality."
+This website presents several tools and initiatives that have been developed to help clinical laboratories implement quality improvements.
+In the previous session, you learned about the conventional diagnostic methods for TB, and that the WHO recommends using a rapid diagnostic test instead of a conventional test as the initial test to diagnose TB in all settings.
+In the next session, you will learn about the characteristics and performance of WHO-recommended rapid diagnostic tests for the initial diagnosis of TB.
+Laboratory biosafety manual, fourth edition and associated monographs.
+This manual adopts a risk- and evidence-based approach to biosafety to ensure that laboratory facilities, safety equipment, and work practices are locally relevant, proportionate, and sustainable.
+Guidance is provided specifically for individuals who work with biological agents or in facilities where personnel may be exposed to potentially infectious substances that pose a hazard to human health.
+The guide can be used to foster a culture of safety in everyday laboratory practices and procedures.
+It will also be valuable for those who build or renovate laboratory facilities and for people who develop and implement biosafety programs and frameworks intended for biosafety oversight.
+The WHO has revised the critical concentrations used in culture-based first-line phenotypic drug susceptibility testing (DST) for TB.
+The critical concentrations of rifampicin were reduced and those of isoniazid were maintained at the current level.
+This update helps address the observed discordance between phenotypic and molecular methods for detecting rifampicin resistance; it also helps improve the accuracy of drug susceptibility testing.
+This report describes the critical concentrations for drug susceptibility testing (DST) for the second-line injectable drugs (kanamycin, amikacin and capreomycin), clofazimine and bedaquiline, cycloserine and terizidone, linezolid, delamanid, and the fluoroquinolones (ofloxacin, levofloxacin, gatifloxacin and moxifloxacin) in the following media: Löwenstein-Jensen, Middlebrook 7H10/7H11, and BACTEC MGIT 960 (with mycobacterial growth indicator tube).
+This manual focuses on drug susceptibility testing methods for first- and second-line drugs against TB.
+Includes only indirect drug susceptibility testing procedures for TB.
+The described methods are for the Löwenstein-Jensen medium, Middlebrook 7H10 and 7H11 agar, and MGIT.
+This document presents the results of a review of the evidence on the use of the commercial manual TB-LAMP test and the normative guidance on its use in the detection of M. tuberculosis complex DNA.
+This document presents the results of a review of the evidence on the use of the LAM-ICL urine test and the normative guidance on its use in the diagnosis of active TB in people with HIV infection.
+This guide provides practical guidance for the adoption and implementation of Truenat tests.
+It includes guidance on how to translate the outputs of WHO normative guidance into a feasible implementation plan, operational considerations regarding the use of technology, and the initial on-the-ground experience of early implementers.
+The guide also includes a standard operating procedure, checklists for planning and center evaluations, and help guides.
+The comprehensive training on this website aims to strengthen laboratory capacity at the local and national levels and to support the adoption of and universal access to TB diagnostic methods.
+The training covers strengthening the diagnostic network and the technical details of the Xpert MTB/RIF (Ultra) assay; other technical resources are also cited.
+This guide was developed to help countries implement the lateral flow urine lipoarabinomannan (LF-LAM) test and incorporate it into standard algorithms for TB diagnosis.
+The guide also provides practical information on sample collection and storage, reading and interpretation, specific considerations on test deployment, and information on procurement.
+This edition of the implementation manual for the Xpert MTB/RIF test replaces the first edition.
+It takes into account the evidence and operational experience available in 2014, in the context of the updated policy recommendations.
+This document provides practical guidance for planning and implementing a smooth transition from the use of Xpert MTB/RIF cartridges to Xpert MTB/RIF Ultra. The goal is to ensure uninterrupted service and avoid wasting cartridges.
+This document provides practical guidance for planning and implementing a smooth transition from the use of Xpert MTB/RIF cartridges to Xpert MTB/RIF Ultra. The goal is to ensure uninterrupted service and avoid wastage of cartridges.
+In the previous two sessions, you learned about the diagnostic tests recommended by the WHO for TB.
+In the next session, you will learn that, based on the analysis of the available data, the WHO has also advised against the use of certain tests because they do not provide reliable information for diagnosing TB.
+In addition, you will learn that next-generation sequencing is a promising technology that is part of the diagnostic product portfolio under development.
+This document updates WHO's current policy on the use of molecular line probe assays (LPAs) to detect the Mycobacterium tuberculosis complex and resistance to isoniazid and rifampicin, directly on sputum specimens and indirectly on isolates obtained from culture of the M. tuberculosis complex.
+This document provides a summary of the evidence and recommendations on the use of second-line LPA to detect mutations associated with resistance to fluoroquinolones and second-line injectable drugs in patients with rifampicin-resistant TB or multidrug-resistant TB.
+This document provides practical guidance for interpreting commonly used first- and second-line LPAs.
+It includes practical recommendations on other follow-up diagnostic measures that should be carried out when specific mutations are present and the clinical implications these mutations have for the choice of appropriate treatment regimens.
+This guide summarizes the features of the available next-generation sequencing technologies, together with the current knowledge of the genetic basis of drug resistance in M. tuberculosis.
+Guidelines related to their selection, procurement, and implementation by TB reference laboratories in low- and middle-income countries are also presented.
+This catalog provides a common and standardized reference on the interpretation of resistance to all first-line drugs and the second-line drugs in groups A, B, and C. The methods used, recognized mutations, summaries of the main findings for each drug, and topics for future research are also described.
+This report details the range of new TB diagnostic tools that are in development, highlighting how the tools are expected to meet the product profiles and where they may fall short.
+The scientific and technological aspects that underpin the tools are also described to some extent, and considerations pertaining to their application in health care settings are analyzed.
+Overview by the Foundation for Innovative New Diagnostics (FIND) of the status of diagnostic methods under development.
+This website tracks diagnostic methods under development, along with their status and the expected dates for authorization for the distribution of diagnostic tests.
+It provides an overview of the current situation of diagnostic methods, including the timeline for making the products available for use.
+Target product profile for TB drug susceptibility testing in peripheral centers.
+In this update of the target product profile, guidance is provided on the development of rapid drug susceptibility tests that can be used at the peripheral level of the health system.
+It is intended for groups of test developers and manufacturers, research institutes, and product development partnerships, among other organizations.
+5.3 Exercise to evaluate a TB laboratory network
+Given your enrollment in this online course, it is presumed that you are at the apex of the TB laboratory network pyramid.
+For example, they may be a consultant working in the national reference laboratory or supporting national programs for the adoption of new diagnostic methods or the strengthening of the TB laboratory.
+When evaluating a laboratory network from the perspective of the need to introduce new diagnostic methods, it is important to have a precise understanding of the tests being performed, at what level, for which groups, and of the integrity of the provision of diagnostic services.
+As an exercise, you could ask yourself the following questions about a network of laboratories you are familiar with. This is not a complete list.
+Are the WHO-recommended rapid diagnostic tests (e.g., Xpert MTB/RIF, Xpert MTB/RIF Ultra, TB-LAMP or Truenat) available in peripheral laboratories, either directly or through a specimen referral system?
+Are molecular drug susceptibility tests used as the initial test to detect drug resistance in smear-positive specimens or in isolates obtained from cultures of the Mycobacterium tuberculosis complex (MTBC), instead of using culture-based phenotypic drug susceptibility tests?
+Is the urine LAM-ICL test used as an aid in diagnosing active TB in HIV-positive adults, adolescents, and children with signs and symptoms of TB?
+Is culture performed during treatment follow-up for patients with rifampicin-resistant TB or multidrug-resistant TB?
+Are samples sent to other laboratories for sequential testing?
+If so, is this being done properly (i.e., for the right tests) and efficiently?
+Is a WHO-recommended rapid diagnostic test performed as the initial diagnostic test in at least 90% of notified new and relapse TB cases?
+If you have answered "no" to any of the previous questions, the structure of the TB laboratory network is not optimal or it is necessary to establish or expand the use of new diagnostic methods.
+In the following video you will learn how to introduce new diagnostic methods.
+WHO 2015 In this document, a structured framework is provided for introducing the TB diagnostic techniques recommended by the WHO.
+Information is provided on the management, technical, and operational processes necessary to develop and implement a national strategy for TB laboratories.
+The implementation of the strategy must ensure early diagnosis of TB and universal access to drug susceptibility testing, as well as systematic screening of contacts of people with TB and of high-risk groups.
+Global Laboratory Initiative (GLI) 2017 This toolkit complements the GLI guide mentioned above.
+Global Laboratory Initiative (GLI) 2017 This guide includes pertinent information for TB program and laboratory managers, as well as Ministry of Health officials across all disease programs who are interested in creating integrated solutions for specimen referral.
+Global Laboratory Initiative (GLI) 2017 This toolkit complements the GLI guide mentioned above.
+It contains many tools, documents, and additional reading materials that are pertinent to the derivation of the samples.
+GLI quick guide to connectivity solutions for TB diagnostics.
+Global Laboratory Initiative (GLI) 2017 This toolkit complements the GLI guide mentioned above.
+Global Laboratory Initiative (GLI) 2016 This guide explains the available connectivity solutions and how they can be used to facilitate the automatic exchange of electronic data generated by different diagnostic devices.
+Connectivity solutions offer a highly cost-effective way to ensure that a network of diagnostic devices functions properly; they also improve the network’s integration with patient care and treatment services.
+Global Laboratory Initiative (GLI) 2017 This guide provides practical guidance for planning and implementing a smooth transition from the use of Xpert MTB/RIF cartridges to Xpert MTB/RIF Ultra cartridges, thereby ensuring uninterrupted service and avoiding cartridge wastage.
+Some of the aspects that must be taken into account when introducing a new diagnostic method are presented.
+GLI Practical Guide to the Implementation of Truenat Tests: This guide provides practical guidance to support planning for the adoption and implementation of WHO-recommended Truenat™ tests for the rapid detection of TB and rifampicin resistance.
+This guide provides practical guidance aimed at planning the adoption and implementation of WHO-recommended Truenat™ tests for the rapid detection of TB and rifampicin resistance.
+Practical application of the lateral flow immunochromatographic urinary lipoarabinomannan test (LAM-ICL) for the detection of active tuberculosis in people with HIV.
+Global Laboratory Initiative (GLI) 2017. This toolkit complements the GLI guide mentioned above.
+Global Laboratory Initiative (GLI) 2020 This practical guide aims to help countries incorporate the Alere Determine™ TB LAM Ag (antigen) test into their standard TB diagnostic algorithm.
+The LAM-ICL test will help diagnose active TB in the adult, adolescent, and pediatric population with HIV infection.
+In the previous session, you learned that the WHO has developed four model diagnostic algorithms to standardize the diagnosis of TB and ensure that people receive the most appropriate treatment regimen.
+In the next session, you will learn how to apply the model diagnostic algorithms in different settings and which factors influence decision-making.
+WHO consolidated guidelines on tuberculosis.
+Module 4: Treatment.
+This document provides evidence-based information that will help support the use of new all-oral regimens and the possible extension of the product label for new anti-TB medicines.
+The guidelines replace the previous guidance.
+This document covers previous recommendations that remain valid; recommendations that have been updated; and others recently formulated on the basis of additional studies that consider the diversity of recognized benefits and potential harms, modeling exercises, and other data.
+This update to the WHO guidelines aims to apply the best current evidence on the treatment of drug-susceptible TB and on interventions to ensure appropriate patient care and support and to inform policy decisions made in these technical areas.
+The document is addressed to managers of national TB programs, national policymakers, and medical personnel in a variety of geographic, economic, and social settings.
+Treatment of drug-resistant tuberculosis.
+Rapid communication: treatment of drug-susceptible tuberculosis, PAHO 2021. The objective of this rapid communication is to inform national TB programs, technical partners, and other stakeholders about the key findings and the considerations regarding the 4-month treatment regimen for drug-susceptible TB, following the assessment of new evidence, in order to facilitate planning at the national level.
+This is a guide for developing laboratory strengthening plans.
+It describes the 12 indicators that measure programs’ capacity to detect TB accurately and rapidly using WHO-recommended rapid diagnostic tests, provide universal drug susceptibility testing, and ensure the quality of the tests performed.
+Website of the Global Laboratory Initiative (GLI).
+Global Laboratory Initiative (GLI) 2017 This document provides practical guidance on implementing WHO recommendations and international best practices for strengthening TB laboratories.
+Website of the GLI Global Laboratory Initiative.
+This guide is designed to familiarize those who provide technical assistance in TB laboratories in low- and middle-income countries with WHO recommendations and international best practices.
+You must score at least 80% to pass this exam.
+A certificate of studies will be awarded once you have completed 100% of the course content and successfully passed this exam.

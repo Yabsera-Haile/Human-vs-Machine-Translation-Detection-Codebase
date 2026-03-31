@@ -1,0 +1,596 @@
+¿De qué se trata este módulo?
+Este módulo proporcionará una introducción a los materiales del curso y presentará las Competencias Básicas para la prescripción antimicrobiana.
+**Competencias básicas para la prescripción antimicrobiana**
+Estás comenzando el curso en línea.
+**Estás comenzando el curso en línea.**
+Al finalizar este curso, los participantes deberían poder comprender las competencias básicas de la esterilidad antimicrobiana y cómo pueden aplicarse a escenarios clínicos comunes.
+**Por favor haga clic en el botón Siguiente para comenzar el primer módulo.**
+¿De qué trata este módulo?
+Al final de este módulo, los participantes deberán ser capaces de:
+1. definir los principios de la prescripción antimicrobiana empírica adecuada;
+2. considerar factores del paciente y epidemiológicos al prescribir antimicrobianos;
+Utilizar datos clínicos y de laboratorio para reevaluar la adecuación de la terapia antimicrobiana a lo largo del curso de la enfermedad del paciente.
+**Este módulo destacará particularmente la Competencia Básica C1, C2 y C5.**
+Comprender los conceptos básicos de la farmacocinética/farmacodinámica de antimicrobianos;
+Describe la biodisponibilidad oral de antimicrobianos;
+Ilustre el concepto de antimicrobianos dependientes del tiempo y describa la optimización del uso de antimicrobianos beta-lactámicos mediante infusión prolongada.
+**Este módulo destacará particularmente la competencia C2, C3 y C5.**
+Identificar los mecanismos mediante los cuales los microorganismos desarrollan resistencia antimicrobiana.
+Ilustre la emergencia y la propagación global de organismos resistentes a los medicamentos.
+Demostrar el uso de directrices clínicas en la elección de una terapia antimicrobiana empírica adecuada.
+1. Reconocer que la mayoría de las alergias al penicilina reportadas no están confirmadas al someterse a pruebas y exponer a los pacientes a un daño innecesario.
+2. comprender cuándo se indica la realización de pruebas diagnósticas, incluyendo pruebas cutáneas, para confirmar una alergia antimicrobiana;
+3. emplear estrategias para determinar si los cefalosporinas pueden ser utilizados en pacientes con alergia reportada a la penicilina.
+Comprender la prevalencia e implicaciones de las culturas de orina contaminadas y de la bacteriuria asintomática;
+Ilustre la complejidad del uso de la analítica de orina y la cultura de orina para diagnosticar infecciones del tracto urinario.
+Demostrar el uso de antibiograma local y directrices en el manejo de infecciones del tracto urinario.
+Usar la evaluación inicial de manera efectiva para determinar la terapia antimicrobiana empírica adecuada, resaltando la importancia de establecer el diagnóstico correcto.
+utilizar datos clínicos específicos del paciente para reevaluar la adecuación de la terapia antimicrobiana;
+Aprecia el papel de las terapias no antimicrobianas en la prevención de enfermedades bacterianas y el papel del clinico en la educación de los pacientes sobre estas opciones (vacunación).
+Contraste la epidemiología y las estrategias de manejo de infecciones de piel y tejidos blandos puro-lentas frente a las no puro-lentas para resaltar oportunidades de stewardship.
+Identificar las presentaciones clínicas para las cuales se deben enviar especímenes para cultivo.
+Demuestren oportunidades para optimizar el uso de antimicrobianos para las infecciones de piel y tejidos blandos comunes.
+Describir técnicas de recogida de especímenes de cultura de sangre adecuadas para reducir oportunidades de contaminación, que pueden dar lugar al uso inapropiado de antimicrobianos.
+Revisar el marco para la prescripción antimicrobiana adecuada para pacientes con infecciones de sangre sospechosas (BSI);
+Demuestran oportunidades de colaboración con servicios de microbiología y diagnósticos clínicos que conducen a un uso más apropiado de antimicrobianos.
+Articular los principios del uso antimicrobiano en la profilaxis quirúrgica.
+Describe cómo los protocolos específicos de institución pueden mejorar el uso de antimicrobianos para la profilaxis quirúrgica.
+Aprecia la importancia de la dosis preoperatoria y limita la duración de la dosis postoperatoria de antimicrobianos.
+Comprender la epidemiología de las infecciones que causan faringitis aguda.
+Utilice puntuaciones de predicción clínica y pruebas microbiológicas para identificar a aquellos que pueden beneficiarse de la terapia antimicrobiana.
+3. reconocer herramientas de comunicación que se pueden utilizar para educar a los pacientes sobre sus diagnósticos y el uso adecuado de antimicrobianos.
+1. Reconocer el número limitado de escenarios clínicos de diarrea aguda que requieren terapia antimicrobiana;
+Utilizar datos de susceptibilidad microbiológica para determinar la terapia empírica adecuada para la diarrea de viajero y cuando el tratamiento autoadministrado prescrito por el médico es indicado.
+Entender el papel de los clínicos en la reducción del uso de antimicrobianos comprados sin receta para la diarrea aguda en algunos entornos.
+1. comprender cómo la emergencia de resistencia antimicrobiana en un hospital particular pone en peligro a los pacientes con infecciones nosocomiales, como la neumonía asociada a ventilación mecánica.
+Ilustre la importancia de obtener especímenes adecuados para cultivo y utilizar estos resultados para optimizar el uso de antibióticos;
+3. Destacar la duración adecuada de la terapia para la neumonía asociada a ventilación mecánica.
+Entender la importancia de los hallazgos del examen físico para distinguir las condiciones del oído medio que responden a los antibióticos de aquellas que no lo hacen.
+2. Se enfatiza la adherencia a las directrices de práctica basadas en evidencia clínica en el manejo de la otitis media aguda y la otitis media con efusión.
+Demonstrar intervenciones y medidas preventivas no antimicrobianas en el manejo de pacientes con otitis media aguda.
+Este módulo destacará particularmente la Competencia Básica C1, C2 y C3.
+**Para un aprendizaje adicional: examen otoscópico:**
+Shaikh N, Hoberman A, Kaleida PH, Ploof DL, Paradise JL.
+N Engl J Med. 2010;362(20):e62.
+Lista de desarrolladores de cursos, revisores y asesores
+Marisa Holubar, MD MS  Profesora Asistente Clínica, Enfermedades Infecciosas Directora Asociada, Programa de Seguridad y Sostenibilidad Antimicrobiana, Escuela de Medicina de la Universidad de Stanford
+**Elizabeth Robilotti, MD MPH** Asistente Asociada, Enfermedades Infecciosas Directora Asociada, Control de Infecciones Centro de Cáncer Memorial Sloan Kettering
+**Stan Deresinski, MD** Profesor Clínico, Director de Enfermedades Infecciosas Programa de Seguridad y Sostenibilidad Antimicrobiana, Escuela de Medicina de la Universidad de Stanford
+**Tjalling Leenstra, MD PhD** Director, Centro de Colaboración de la OMS para Epidemiología y Vigilancia de Resistencia a los Antibióticos Centro de Control de Enfermedades Infecciosas Instituto Nacional de Salud Pública y Medio Ambiente de los Países Bajos
+Muna ABU SIN, MD, MSc Instituto Robert Koch Departamento de Epidemiología de Enfermedades Infecciosas Infecciones asociadas a la atención médica Vigilancia de la resistencia y consumo de antibióticos Alemania
+**Hrachuhi Ghazaryan, MD** Pediatra general Directora del Departamento de Pediatría Centro Médico Conjunto Arabkir Profesor Asociada en la Universidad Médica Estatal de Yerevan después de M. Heratsi, Cátedra de Pediatría N2 Yerevan, Armenia
+Saskia Nahrgang, MD, MPH Oficial Técnica, Programa de Control de Resistencia a los Antimicrobianos Oficina Regional de la OMS para Europa
+**Danilo Lo Fo Wong, PhD** Gerente del Programa, Control del Programa de Resistencia a los Agentes Antimicrobianos Oficina Regional de la OMS para Europa
+Has llegado al final del curso en línea.
+Se emite un confirmado de participación a aquellos que han completado al menos el 80% del material del curso.
+Para descargar tu certificado, navega hasta la pestaña Certificados en el barra de navegación del curso y haz clic en el botón Descargar.
+Si el botón no se activa, esto significa que aún no has cumplido con los requisitos para ser elegible para el certificado.
+Es hora de prepararse y empezar.
+En la sesión anterior, aprendiste sobre la Estrategia contra la TB desde una perspectiva de diagnóstico, examinando conceptos clave, principios directores y consideraciones éticas.
+En la próxima sesión, aprenderás sobre la epidemiología de la TB confirmada bacteriológicamente y la TB resistente a los medicamentos.
+También aprenderá sobre la orientación de la OMS sobre pruebas diagnósticas rápidas para detectar la TB a nivel global y por qué tales pruebas son importantes.
+El objetivo de este documento de orientación es ayudar a quienes trabajan hacia la eliminación de la TB en el siglo XXI proponiendo respuestas prácticas a las preguntas éticas clave, y permitiendo a los pacientes, las familias, la sociedad civil, los trabajadores de la salud y los formuladores de políticas avanzar y abordar los desafíos actuales.
+Esta guía de ética de la TB puede informar luego los procesos de toma de decisiones difíciles proporcionando recomendaciones y sirviendo como base para un análisis más profundo de los desafíos éticos complejos.
+Este documento describe la justificación, los principios, las pilares y los componentes de la Estrategia de Erradicación de la TB de la OMS.
+Implementar la Estrategia para Erradicar la TB: los Elementos esenciales.
+Este documento proporciona una comprensión inicial de la visión, el objetivo, los objetivos y los hitos de la Estrategia para la erradicación de la tuberculosis, y los indicadores operativos sugeridos para medir el progreso.
+Luego describe los elementos esenciales para operacionalizar los principios, pilares y componentes de la estrategia.
+Sitio web de los Objetivos de Desarrollo Sostenible de las Naciones Unidas.
+Los Objetivos de Desarrollo Sostenible (ODS) de las Naciones Unidas (ONU) son un llamado a la acción de todos los países – pobres, ricos y de ingresos medios – para promover la prosperidad mientras se protege el planeta.
+Reconocen que erradicar la pobreza debe ir de la mano con estrategias que fomenten el crecimiento económico y aborden una variedad de necesidades sociales, incluyendo la educación, la salud, la protección social y las oportunidades de empleo, mientras se aborda el cambio climático y la protección ambiental.
+Este sitio web presenta los ODS y el progreso hacia ellos.
+Reunión de alto nivel sobre los objetivos y compromisos clave para la TB para 2022.
+Declaración política de la Reunión de Alto Nivel de la Asamblea General de las Naciones Unidas sobre la Lucha contra la Tuberculosis.
+Nueva York: Naciones Unidas; 2018.
+La Resolución A/RES/73/3, adoptada por la Asamblea General de las Naciones Unidas el 10 de octubre de 2018, a raíz de la aprobación de la reunión de alto nivel de la Asamblea General sobre la lucha contra la TB, el 26 de septiembre de 2018.
+Resolución A/RES/78/5 adoptada por la Asamblea General de las Naciones Unidas el 5 de octubre de 2023.
+La resolución A/RES/78/5, adoptada por la Asamblea General de las Naciones Unidas el 5 de octubre de 2023, después de la aprobación por la reunión de alto nivel de la Asamblea General sobre la lucha contra la TB, el 22 de septiembre de 2023.
+El marco de responsabilidad multisectorial para la TB (MAF-TB) tiene como objetivo apoyar la responsabilidad efectiva de los gobiernos y todos los interesados, a nivel global, regional y nacional, para acelerar el progreso hacia el fin de la epidemia de TB.
+También apoya la alineación completa con la Estrategia End TB y la Agenda 2030 para el Desarrollo Sostenible.
+Los perfiles de productos objetivo (TPPs) ayudan a alinear las necesidades de los usuarios finales con objetivos y especificaciones que los desarrolladores de productos deben cumplir en cuanto a la rendimiento y características operativas de una prueba diagnóstica.
+Este informe resume una reunión convocada por la OMS en abril de 2014 con el objetivo de lograr un consenso sobre cuatro TTPs identificados por los interesados como de alta prioridad.
+Este documento presenta un TPP para un test de progresión de la infección latente a la infección activa de TB.
+La TPP define especificaciones clave como uso intencionado, rendimiento y características operativas, y precios.
+El documento también incluye un marco para evaluar las pruebas que predicen la progresión a la enfermedad activa de la tuberculosis utilizando diseños de estudio estándar y protocolos de evaluación.
+Este informe detalla el rango de herramientas diagnósticas nuevas de TB que actualmente se encuentran en la pipeline, destacando las formas en que las herramientas están esperadas para cumplir con los TPP y dónde podrían caer cortas.
+También detalla algunas de la ciencia y la tecnología detrás de las herramientas y discute consideraciones para implementarlas en entornos de atención médica.
+El informe está organizado según los TPPs definidos por la OMS y FIND.
+Este documento proporciona orientación práctica para implementar las recomendaciones de la OMS y las mejores prácticas internacionales para fortalecer los laboratorios de TB.
+Este manual está dirigido a programas nacionales de control de la tuberculosis.
+Proporciona pasos simples para desarrollar un plan estratégico nacional de laboratorio específico para la TB.
+Una intervención clave para fortalecer los servicios de laboratorio es la implementación de un sistema de gestión de la calidad (SGC).
+La Organización Internacional para la Estandarización (ISO) define un SGC como sistema de gestión para dirigir y controlar una organización en cuanto a la calidad.
+Esta página ofrece varias herramientas e iniciativas que han sido desarrolladas para ayudar a los laboratorios clínicos a implementar mejoras en la calidad.
+En la sesión anterior, se aprendió sobre el diagnóstico convencional de TB y que la OMS recomienda el uso de un test de diagnóstico rápido en lugar de los diagnósticos convencionales como el test inicial para el diagnóstico de TB en todos los entornos.
+En la próxima sesión, aprenderá sobre las características y rendimiento de los test diagnósticos rápidos recomendados por la OMS para el diagnóstico inicial de la TB.
+Manual de seguridad biológica del laboratorio, cuarta edición y monografías asociadas.
+Este manual adopta un enfoque basado en riesgos y en evidencia para la bioseguridad, para asegurar que las instalaciones de laboratorio, el equipo de seguridad y las prácticas de trabajo sean relevantes, proporcionados y sostenibles a nivel local.
+Se proporciona orientación específicamente para aquellos que trabajan con agentes biológicos o en instalaciones donde el personal puede estar expuesto a sustancias potencialmente infecciosas que representan un peligro para la salud humana.
+La guía puede usarse para impulsar una cultura de seguridad para las prácticas y procedimientos de laboratorio diarios.
+Será también valioso para aquellos que construyen o renuevan instalaciones de laboratorio, y para aquellos que desarrollan e implementan programas y marcos de bioseguridad para la supervisión de la bioseguridad.
+La OMS ha revisado las concentraciones críticas para la prueba de susceptibilidad a fármacos de fenotipo basada en cultivo (DST) de los primeros fármacos antituberculosos.
+Se han reducido las concentraciones críticas de rifampicina, mientras que las de isoniacida se han mantenido en el nivel actual.
+Esta actualización ayuda a abordar la discordancia entre los métodos fenotípicos y moleculares para detectar la resistencia a la rifampicina; también ayuda a mejorar la precisión de la DST.
+Este informe describe las concentraciones críticas para DST para agentes inyectables de segunda línea (kanamicina, amikacina y capreomicina), clofazimina y bedaquilina, cicloserina y terizidona, linezolid y delamanida y los fluoroquinolonas (ofloxacina, levofloxacina, gatifloxacina y moxifloxacina) para los siguientes medios: Löwenstein-Jensen, Middlebrook 7H10/7H11 y BACTEC™ Mycobacterial Growth Indicator Tube™ 960.
+Este manual se centra en los métodos DST para los agentes antituberculosos de primera y segunda línea.
+Incluye solo procedimientos de DST indirectos para medicamentos antituberculosos.
+Los métodos descritos son Löwenstein-Jensen, Middlebrook 7H10 y 7H11 agar y tubo de indicador de crecimiento de micobacterias (MGIT).
+Este documento presenta hallazgos de una revisión de la evidencia sobre el uso de la prueba de ensayo manual TB-LAMP comercial y orientación política sobre el uso de esta prueba para la detección de ADN del complejo de Mycobacterium tuberculosis.
+Este documento presenta hallazgos de una revisión de la evidencia sobre el uso de la prueba de LF-LAM en orina, y orientación política sobre el uso de esta prueba para el diagnóstico de tuberculosis activa en personas que viven con el VIH.
+Esta guía proporciona orientación práctica para la adopción e implementación de pruebas Truenat.
+Incluye consejos sobre cómo traducir hallazgos de la orientación política de la OMS en un plan de implementación ejecutable, y consideraciones operativas sobre el uso de la tecnología y la experiencia de campo inicial de los primeros implementadores.
+El manual también incluye un procedimiento de funcionamiento estándar, listas de verificación para la planificación y evaluaciones de sitio, y ayuda de trabajo.
+El entrenamiento integral en este sitio web tiene como objetivo fortalecer la capacidad de laboratorio a nivel local y nacional y apoyar el uso y el acceso universal a los diagnósticos de TB.
+La formación cubre el fortalecimiento de la red de diagnóstico y los detalles técnicos del ensayo Xpert MTB/RIF (Ultra); también hace referencia a recursos técnicos adicionales.
+Este manual ha sido desarrollado para ayudar a los países a implementar el ensayo de lipoarabinomannana en orina de flujo lateral (LF-LAM) e incorporarlo en los algoritmos rutinarios para el diagnóstico de la tuberculosis.
+El guía también proporciona información práctica sobre la recolección y almacenamiento de muestras, la lectura e interpretación y consideraciones específicas para la implementación del test y la información de contratación.
+Esta edición del manual de implementación de Xpert MTB/RIF reemplaza la primera edición.
+Toma en consideración la evidencia y la experiencia operativa disponible en 2014, en el contexto de recomendaciones de política actualizadas.
+Este documento proporciona orientación práctica para planificar e implementar una transición suave desde el uso de cartuchos Xpert MTB/RIF a cartuchos Xpert MTB/RIF Ultra.
+El objetivo es asegurar un servicio ininterrumpido y evitar la pérdida de cartuchos.
+En las dos sesiones anteriores, aprendiste sobre los tests de diagnóstico recomendados por la OMS para la TB.
+En la próxima sesión, aprenderás que, según revisiones de datos disponibles, la OMS también ha recomendado *contra* el uso de ciertos tests porque no proporcionan información fiable para diagnosticar la TB.
+Además, aprenderás que la secuenciación de próxima generación es una tecnología prometedora que está en la vía de los diagnósticos.
+Este documento actualiza la política existente de la OMS sobre el uso de ensayos de línea de reacción molecular (LPAs) para detectar el complejo de Mycobacterium tuberculosis y la resistencia a la isoniacida y la rifampicina directamente desde especímenes de esputo y de manera indirecta a través del testeo de aislados de cultivo del complejo de M. tuberculosis.
+Este documento proporciona un resumen de la evidencia y recomendaciones para el uso de LPAs de segunda línea para la detección de mutaciones asociadas con resistencia a fluoroquinolonas y medicamentos inyectables de segunda línea en pacientes con TB resistente a múltiples medicamentos o resistente a rifampicina.
+Este documento ofrece orientación práctica para la interpretación de LPAs de primera línea y segunda línea comúnmente utilizadas.
+Incluye recomendaciones prácticas sobre acciones de diagnóstico de seguimiento adicionales que deben realizarse en presencia de mutaciones específicas, y las implicaciones clínicas que tienen estas mutaciones en la selección de regímenes de tratamiento adecuados.
+Esta guía resume las características de las tecnologías de secuenciación de próxima generación junto con el conocimiento actual de la base genética de la resistencia del M. tuberculosis.
+También presenta directrices para la selección, adquisición y implementación por parte de los laboratorios de referencia de la TB en países de bajos y medianos ingresos.
+Este catálogo proporciona una referencia común y estandarizada para la interpretación de la resistencia a todos los medicamentos de primera línea, y a los medicamentos de segunda línea en los grupos A, B y C. También describe los métodos utilizados, las mutaciones identificadas, resúmenes de hallazgos clave para cada medicamento, y áreas de investigación futura.
+Este informe detalla la gama de herramientas diagnósticas de TB actualmente en la pipeline; destaca las formas en que estas herramientas están destinadas a cumplir con el perfil del producto objetivo y dónde podrían fallar.
+También detalla algunas de la ciencia y la tecnología detrás de estas herramientas y discute consideraciones para implementarlas en entornos de atención médica.
+Resumen del estado de la línea de diagnóstico de la Fundación para Diagnósticos Innovadores Nuevos (FIND).
+Este sitio web rastrea los diagnósticos que están en la línea de producción, y mapea el estado y las fechas de lanzamiento estimadas de las pruebas diagnósticas.
+Ofrece una visión desde el ángulo de un pájaro del paisaje diagnóstico, incluyendo un cronograma de cuándo estarán disponibles los productos para su implementación.
+Perfil del producto objetivo para la prueba de susceptibilidad a los medicamentos contra la tuberculosis en sitios periféricos.
+Este perfil de producto objetivo actualizado proporciona dirección para el desarrollo de pruebas de susceptibilidad de medicamentos rápidas que se pueden utilizar a nivel periférico del sistema de salud.
+Está dirigido a desarrolladores y fabricantes de pruebas, instituciones de investigación, sociedades de desarrollo de productos, entre otras organizaciones.
+5.3 Ejercicio para evaluar una red de laboratorio de TB
+Al inscribirse en este curso en línea, es presumible que sea parte de la cúspide de la pirámide de la red de laboratorios de TB.
+Por ejemplo, puede ser un consultor trabajando en el laboratorio de referencia nacional, o brindando apoyo a los programas nacionales en la implementación de nuevos diagnósticos o fortalecimiento de laboratorios de TB.
+Al evaluar una red de laboratorio en cuanto a la necesidad de implementar nuevos diagnósticos, es importante tener una buena comprensión de los tests que se realizan, a qué nivel, para qué grupos, y de la completitud de la entrega de servicio de diagnóstico.
+Como ejercicio, podrías hacerte las siguientes preguntas sobre una red de laboratorio con la que estés familiarizado.
+Esta no es una lista completa.
+¿Están disponibles los WRD (por ejemplo, Xpert MTB/RIF, Xpert MTB/RIF Ultra, TB-LAMP o Truenat) en los laboratorios periféricos, físicamente o a través de un sistema de remisión de muestras?
+Se utilizan pruebas de susceptibilidad de fármacos moleculares como la prueba inicial para detectar resistencia a los fármacos en especímenes de esputo positivos para esfumado o aislamientos cultivados del complejo *Mycobacterium tuberculosis* (MTBC) en lugar de la prueba de susceptibilidad de fármacos basada en la cultura fenotípica.
+¿Se utiliza la orina LF-LAM para ayudar en el diagnóstico de TB activa en adultos, adolescentes y niños con signos y síntomas de TB?
+¿Se realiza cultura para el monitoreo del tratamiento de pacientes con TB resistente a múltiples medicamentos o TB resistente a la rifampicina?
+Se remiten muestras a otros laboratorios para pruebas adicionales; si es así, ¿se hace de manera adecuada (es decir, para las pruebas correctas) y de manera eficiente?
+¿Se realizan al menos un 90% de los casos nuevos y de recaída de TB notificados con un WRD como prueba diagnóstica inicial?
+Si has respondido no a alguna de las preguntas anteriores, entonces la estructura de la red de laboratorio de TB no es óptima, o se necesitan nuevos diagnósticos o su escalado.
+Aprenderás a implementar nuevos diagnósticos en el siguiente video.
+Este documento proporciona un marco estructurado para introducir las técnicas diagnósticas recomendadas por la OMS para la TB.
+Proporciona información sobre los procesos gerenciales, técnicos y operativos necesarios para desarrollar y implementar una estrategia nacional para los laboratorios de TB.
+La implementación de la estrategia debe asegurar el diagnóstico temprano de la tuberculosis y el acceso universal a la prueba de susceptibilidad a los medicamentos, así como la criba sistemática de contactos de personas con tuberculosis y grupos de alto riesgo.
+Iniciativa Laboratorio Global (ILG) 2017.
+Esta guía incluye información relevante para los directores de programas de TB y laboratorios, así como funcionarios de la ministra de salud en programas de enfermedades, interesados en establecer soluciones integradas para la remisión de especímenes.
+Este kit de herramientas complementa la guía GLI mencionada anteriormente.
+Contiene muchas herramientas, documentos y materiales de lectura relevantes para la remisión de especímenes.
+Guía rápida de soluciones de conectividad para el diagnóstico de TB.
+Iniciativa Laboratorio Global (ILG) 2016.
+Esta guía explica qué son las soluciones de conectividad y cómo pueden utilizarse para facilitar el intercambio automático de datos electrónicos generados por dispositivos diagnósticos diversos.
+Las soluciones de conectividad pueden proporcionar una forma muy rentable de asegurar que una red de dispositivos diagnósticos funcione bien; también pueden mejorar la conexión de la red con la atención y la gestión del paciente.
+Esta guía ofrece orientación práctica para planificar e implementar una transición suave desde el uso de cartuchos Xpert MTB/RIF a cartuchos Xpert MTB/RIF Ultra, garantizando un servicio sin interrupciones y evitando el desperdicio de cartuchos.
+Demuestra algunas de las cosas que considerar al implementar un nuevo diagnóstico.
+Guía práctica para la implementación de Pruebas Truenat.
+Esta guía proporciona orientación práctica para utilizar en la planificación de la adopción e implementación de las pruebas recomendadas por la OMS Truenat ™ para la detección rápida de la tuberculosis y la resistencia a la rifampicina.
+Implementación práctica de LF-LAM para la detección de TB activa en personas viviendo con VIH.
+Iniciativa Laboratorio Global (ILG) 2020.
+Este guía práctica tiene como objetivo ayudar a los países a implementar e incorporar el ensayo Alere Determine™ TB LAM Ag (antígeno) en su algoritmo diagnóstico rutinario para la tuberculosis.
+LF-LAM ayudará a diagnosticar la TB activa entre adultos, adolescentes y niños que viven con el VIH.
+En la sesión anterior, aprendiste que la OMS desarrolló cuatro algoritmos diagnósticos modelo, para estandarizar el diagnóstico de la TB y asegurarse de que los pacientes reciban el régimen de tratamiento más adecuado.
+En la próxima sesión, aprenderá a aplicar algoritmos de diagnóstico de modelos en diferentes entornos, y qué factores influyen en el camino de decisión.
+Directrices consolidadas de la OMS sobre tuberculosis.
+Módulo 4: Tratamiento – tratamiento de tuberculosis resistente a los medicamentos.
+Este documento proporciona información basada en evidencia que ayudará a informar el uso de regímenes orales innovadores y el potencial de expansión de la etiqueta para nuevos medicamentos contra la TB.
+Las directrices suplantan a las orientaciones anteriores.
+Este documento cubre recomendaciones anteriores que siguen siendo válidas; aquellas que han sido actualizadas; y aquellas que se han desarrollado recientemente sobre la base de estudios adicionales que consideran el rango de beneficios conocidos y potenciales daños, ejercicios de modelización y otros datos.
+Esta actualización de la guía tiene como objetivo utilizar la mejor evidencia disponible sobre el tratamiento de la TB susceptible a medicamentos e intervenciones para garantizar una atención y apoyo adecuados a los pacientes y para informar las decisiones de política en estas áreas técnicas.
+Está dirigido a los responsables de los programas de control de la TB a nivel nacional, formuladores de políticas nacionales y profesionales de la medicina en una variedad de entornos geográficos, económicos y sociales.
+Tratamiento de la tuberculosis sensible a los medicamentos: comunicación rápida.
+Este comunicado de prensa rápido tiene como objetivo informar a los programas nacionales de TB, a los socios técnicos y a otros interesados sobre los hallazgos clave y consideraciones sobre el uso del régimen de 4 meses para la TB susceptible a medicamentos, después de la evaluación de nuevas evidencias, para permitir la planificación a nivel de país.
+Esta es una guía para desarrollar planes de fortalecimiento de laboratorios.
+Describe los 12 indicadores que miden la capacidad de los programas para detectar la TB con precisión y rapidez utilizando los diagnósticos rápidos recomendados por la OMS, proporcionar la prueba de sensibilidad de los fármacos universal y asegurar la calidad de la prueba.
+Iniciativa Laboratorio Global (ILG) 2017.
+Este documento proporciona orientación práctica sobre la implementación de las recomendaciones de la OMS y las mejores prácticas internacionales para el fortalecimiento de los laboratorios de TB.
+Iniciativa de Laboratorio Global (GLI) sitio web.
+Este manual está diseñado para familiarizar a aquellos que brindan asistencia técnica a laboratorios de TB en países de bajos y medianos ingresos con las recomendaciones de la OMS y las mejores prácticas internacionales.
+Se emitirá un registro de logros cuando obtengas al menos un 80% en esta evaluación final.
+Tiene intentos ilimitados para alcanzar el umbral.
+Ha finalizado el curso de aprendizaje en línea **Diagnóstico rápido para la detección de tuberculosis**, y nos gustaría saber sobre su experiencia.
+Su retroalimentación no solo nos ayudará a mejorar el curso de aprendizaje en línea, sino que también nos ayudará a desarrollar cursos futuros.
+Muchas gracias por tomarse el tiempo para comentar sobre el curso; su contribución es muy apreciada.
+Por favor, haga clic **aquí** para iniciar la encuesta de evaluación del curso.
+Este curso en línea fue desarrollado por el Programa Mundial de la OMS contra la TB en colaboración con la Fundación KNCV contra la Tuberculosis (KNCV).
+Un especial agradecimiento a Agnes Gebhard, Mustapha Gidado, Emmy van der Grinten, Ineke Huitema, Petra de Haas, Kristin Kremer, Ieva Leimane, Lilian Polderman, Rachel Powers y Fran Tain.
+Dentro del Programa Global de TB de la OMS, se produjeron materiales de capacitación por un equipo de 13 personas clave: Annemieke Brands, Hannah Monia Dias, Dennis Falzon, Medea Gegia, Karina Halle, Nazir Ismail, Ernesto Jaramillo, Avinash Kanchar, Carl-Michael Nathanson, Liesbeth Oey, Cicilia Gita Parwati, Sabine Verkuijl y Yi Wang.
+Esta equipe de corte fue liderada por Karina Halle.
+El desarrollo del contenido técnico fue liderado por Nazir Ismail y Carl-Michael Nathanson bajo la supervisión general de Matteo Zignol.
+La supervisión general de la producción de este curso en línea se realizó bajo la dirección del Director del Programa Global de TBC, Tereza Kasaeva.
+El Programa de TB de la OMS agradece con gratitud los aportes proporcionados por el personal de la Oficina Regional de la OMS durante la fase de planificación y desarrollo.
+Fueron los siguientes los que se involucraron en el desarrollo de contenido visual: Eric van den Berg, Graphic Islands (Tom van Staveren), Rebekka van Harskamp, Tro-Tro Productions y Southern Lantern Studios.
+Los materiales de capacitación fueron editados por Hilary Cadman.
+La principal fuente de apoyo financiero para la producción de este curso en línea fue el Gobierno de los Países Bajos.
+La producción del curso en línea también fue apoyada por The Global Fund para la Lucha contra el SIDA, la tuberculosis y la malaria y la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID).
+Se agradece el apoyo con gratitud.
+Higiene de las manos durante las rondas: Estudio de caso
+Es la una de la mañana de un martes y es hora de las visitas en la sala de cirugía.
+Es tu primer día como persona focal del hospital IPC.
+Decides unirte al equipo de redondeo para observar y conocer las prácticas rutinarias en la sala de enfermería.
+El diseño físico de la sala de cirugía y los perfiles de pacientes para este día en particular se muestran a continuación.
+El Dr. Lim es el médico que realiza las rondas hoy.
+Está acompañado por un residente y un estudiante de medicina.
+También en las rondas está la enfermera de la sala quirúrgica.
+Se nota durante las rondas que hay un número de momentos en los que se debe realizar higiene de las manos.
+Decide revisar las rondas como una oportunidad para reforzar las prácticas de higiene de las manos entre los trabajadores de la salud en la sala de cirugía.
+En el entorno de la atención médica, los microorganismos, como bacterias, virus y hongos, se transmiten a través de varias vías.
+Si no se limpian en los momentos adecuados, con los métodos adecuados, las manos de los HCWs desempeñan un papel importante en la propagación de microorganismos entre pacientes.
+La higiene de las manos en el momento oportuno también previene la contaminación del entorno de atención de la salud (por ejemplo, ropa de cama, superficies, dispositivos de cuidados al paciente).
+El enfoque de los 5 momentos está diseñado para detener la transmisión en todos los momentos clave para mantener a los pacientes a salvo.
+Durante la atención al paciente, nuestras manos se colonizan progresivamente con microorganismos y potenciales patógenos.
+La falta de buena higiene de las manos aumenta el riesgo de contaminación y constituye una amenaza para la seguridad del paciente.
+El propósito de una buena higiene de las manos es eliminar el suelo, el material orgánico y los microorganismos transitorios de las manos.
+No elimina la flora residente que vive en la piel.
+La higiene de las manos es un término general que se aplica a la lavado de manos, el enjuague de manos (por ejemplo, utilizando un enjuague de manos con alcohol) o la antisepsia de las manos quirúrgicas.
+La higiene de las manos es un procedimiento sencillo pero importante, sin embargo, su importancia a menudo se pasa por alto, incluso por parte de los profesionales de la salud.
+La higiene de las manos a tiempo y de manera efectiva protege al paciente, a los trabajadores de la atención de la salud y al entorno de la atención de la salud de ser contaminados por microorganismos que podrían ser patógenos dañinos.
+Siguiendo las prácticas de higiene de las manos recomendadas, podemos ayudar a proteger a los pacientes al prevenir que las infecciones ocurran desde el principio, y al evitar que se propaguen si ya están presentes.
+Así, algo que parece tan simple como la higiene de las manos oportuna y efectiva puede reducir el número de pacientes que adquieren una infección asociada a la atención médica (IAAM).
+Pocos HAI significan pocos recursos gastados en el tratamiento de infecciones que podrían haberse evitado, y finalmente, menos morbilidad y muerte.
+Menos HAIs también reduce el uso de antibióticos, lo que contribuye a la resistencia a los antibióticos disminuida.
+Por lo tanto, la higiene de las manos es una intervención de atención sanitaria esencial que salva vidas y dinero.
+Preguntas de práctica: Propósito de la higiene de las manos
+Ahora que has aprendido sobre el papel que juega la higiene de las manos en la limitación de la propagación de microorganismos, decides reafirmar con el personal del pabellón quirúrgico el propósito de la higiene de las manos.
+Respuestas a las siguientes preguntas de práctica:
+El residente médico pregunta, “Me lavé las manos una vez antes de las rondas. ¿Eso no es suficiente?”
+La enfermera gerente le dice que no entiende cómo la higiene de las manos se relaciona con las HI.
+¿A quién le dices eso?
+Continúa a la siguiente página para comparar tus respuestas.
+Respuestas a preguntas de práctica: Propósito de la higiene de las manos
+Mientras que lavar las manos al inicio de las rondas es razonable, esto no es suficiente para detener la transmisión de microorganismos – y ciertamente no es suficiente para detener su entrada en sitios críticos con riesgo infeccioso para el paciente.
+El 5 Momentos es un enfoque simple diseñado para asegurar que las manos se limpien según sea necesario para la seguridad del paciente y el profesional de la salud, según los riesgos de transmisión.
+Es por eso que es importante limpiar las manos en el momento adecuado, utilizando los métodos adecuados.
+Los HCAs tocan a los pacientes, objetos de su entorno y equipo repetidamente durante el curso de su trabajo.
+Por esta razón, los patógenos potenciales pueden ser recogidos y transportados en las manos, lo que hace posible que los TPC transmitan microorganismos que pueden causar infección de un paciente a otro al entrar en contacto con los pacientes y su entorno inmediato dentro de la zona de pacientes.
+Es muy importante pensar y realizar la higiene de las manos a tiempo y de manera efectiva para reducir la propagación de las HIIs.
+5 Momentos para la higiene de las manos
+Los trabajadores de la atención médica deben realizar higiene de las manos según los 5 Momentos de Higiene de las Manos de la Organización Mundial de la Salud (OMS).
+El WHO 5 Momentos se centra en el contacto que ocurre dentro de la zona del *paciente* durante la atención al paciente.
+Propone una visión unificada para todos los TCB, formadores y observadores para mejorar la comprensión de cuándo limpiar las manos.
+Combinan todas las indicaciones de higiene de manos recomendadas por las Directrices de Higiene de Manos de la OMS en la Atención de la Salud y la Guía para la Higiene de Manos en los Entornos de Atención de la Salud del CDC en cinco momentos en que es necesario realizar la higiene de manos.
+Con importancia, este enfoque centrado en el usuario y el paciente persigue la facilidad de uso y la integración en el flujo de trabajo natural, que se aplica en una amplia gama de entornos de atención y profesiones de atención médica.
+La zona del paciente incluye al paciente y algunas superficies e ítems que están temporal y exclusivamente dedicados a él/ella (indicados por la línea punteada en la póster de los 5 Momentos en la Figura X-1).
+Esto suele incluir al paciente y todas las superficies inanimadas que son tocadas o están en contacto físico directo con el paciente, como los barandales de la cama, la mesa de la cabecera, la ropa de cama, los tubos de infusión y otros equipos médicos.
+Contiene además superficies frecuentemente tocadas por los trabajadores de la salud mientras cuidan al paciente, como monitores, botones y knobs, y otras superficies táctiles.
+Limpie tus manos antes de tocar al paciente cuando te acerques a él/a ella para proteger al paciente contra gérmenes perjudiciales que se llevan en tus manos.
+Limpie sus manos inmediatamente antes de acceder a un sitio crítico con riesgo infeccioso para proteger al paciente contra gérmenes perjudiciales, incluyendo los propios del paciente, que puedan entrar en su cuerpo.
+Riesgo de exposición a fluidos corporales**
+Limpie sus manos inmediatamente después de un riesgo de exposición a fluidos corporales (y después de la remoción de guantes).
+Esto protegerá tanto a usted como al ambiente de atención de la salud de los patógenos en la sangre y los fluidos corporales.
+Limpie tus manos después de tocar a un paciente y su entorno inmediato, y cuando estés por dejar el lado del paciente, para protegerte y el entorno de atención de los microorganismos perjudiciales.
+Limpie sus manos después de tocar cualquier objeto o mueble en las inmediaciones del paciente al salir – incluso si no se ha tocado al paciente – para prevenir la propagación de microorganismos perjudiciales desde la zona del paciente al resto del entorno de atención de la salud.
+Ahora que has aprendido sobre los 5 Momentos de Higiene de las Manos, volvamos a las rondas en la unidad de cirugía y agreguemos un poco más de detalles.
+Piense en las oportunidades de higiene de las manos en cada cama del paciente.
+Comencemos revisando las oportunidades en la Cama 1.
+El paciente en la cama 1 es un paciente preoperatorio.
+El equipo de redondeo realizó higiene de las manos en el fregadero antes de entrar a la zona del paciente en la Cama 1.
+El Dr. Lim da un consejo verbal sobre antibióticos profilácticos antes de la cirugía.
+La hoja médica al final de la cama es tocada por el residente durante la revisión del caso.
+El paciente de la cama 1 no se toca.
+Después de la discusión, el equipo se dirige a la cama 2.
+Continúe a la siguiente página para decidir si alguno de los 5 momentos se aplica a las actividades de cuidado al paciente en la cama 1.
+Pienso en por qué lo aplicarían o no.
+Después de enviar pulsando en Enviar mis respuestas, *haga clic en la caja Mostrar explicación para verificar su razonamiento.
+Cama 2: Post-op - reparación de hernia
+El paciente de la cama 2 tuvo una cirugía abdominal ayer para reparar una hernia.
+El estudiante de medicina realizó una exploración abdominal.
+Durante el examen, el paciente comienza a sentirse mal y vomita al lado de la cama.
+La enfermera ayuda a limpiar la vómito.
+Después de asegurarse de que el paciente está estable, la brigada de redondeo se dirige a la Cama 3.
+Continúe a la siguiente página para decidir si alguno de los 5 momentos aplica a las actividades de atención al paciente en la cama 2.
+Cama 3: Post-operatorio - Apendicectomía
+El paciente en la cama 3 se está recuperando de una apendicectomía.
+El paciente está inmóvil y tiene una bolsa de catéter urinario.
+Durante las rondas, el Dr. Lim maneja la bolsa de la catheter urinaria para verificar la producción de orina.
+El residente cambia la ropa de la vía venosa central.
+Después de estas actividades, el equipo de redondeo reanuda otras tareas.
+Continúe a la siguiente página para decidir si alguno de los 5 momentos se aplica a las actividades de atención al paciente en la cama 3.
+El uso de guantes es una parte importante de proteger las manos de la contaminación.
+Si un profesional de la atención médica viste guantes, NO significa que se puede saltar la higiene de las manos.
+En otras palabras, el uso de guantes NO reemplaza la necesidad de la higiene de las manos.
+Consideraciones para la higiene de las manos y el uso de guantes incluyen:
+Se utilizan guantes cuando se anticipa contacto con sangre o otros fluidos corporales, membranas mucosas, la piel no intacta, materiales potencialmente infecciosos o sustancias químicas (como soluciones de limpieza).
+La higiene de las manos se realiza antes de ponerse guantes.
+Retira guantes después de cuidar a un paciente.
+No use el mismo par de guantes para el cuidado de más de un paciente.
+Cuando se usan guantes, retire los guantes y realice higiene de las manos durante la atención al paciente si se pasa de un sitio corporal contaminado a otro sitio corporal que no está contaminado (incluyendo una membrana mucosa, la piel no intacta o un dispositivo médico dentro del mismo paciente o el entorno).
+Un ejemplo de esto es realizar una vendaje de herida (piel no intacta) en el abdomen y luego realizar una hemofilia en el brazo.
+Realice higiene de las manos después de la eliminación de las guantes.
+Es importante saber que la contaminación de manos a menudo ocurre durante la remoción de guantes debido a una mala técnica y también, posiblemente, como resultado de pequeñas, no detectadas, perforaciones en los guantes.
+Las manos que no están limpias al alcanzar un cajón de guantes pueden dispersar microorganismos por toda la caja de guantes.
+Esta es una de las razones por las que la higiene de las manos debe realizarse siempre antes de ponerse y después de quitarse los guantes.
+Para obtener más información sobre el uso de guantes y otros tipos de equipo de protección personal (EPP), considere inscribirse en nuestro módulo de EPP.
+Lavar las manos con jabón y agua
+El propósito del lavado de manos rutinario con jabón y agua es eliminar la suciedad y el material orgánico y los microorganismos de las manos.
+El jabón ayuda a la remoción mecánica de residuos, microbios adhesivos débiles y sustancias que contienen grasas y aceites que a menudo se encuentran en manos sucias.
+Los jabones planos tienen una actividad antimicrobiana mínima, si es que la tienen, aunque la fricción al frotar las manos al lavarlas con jabón y agua puede eliminar la flora transitoria adquirida con facilidad.
+Es importante pasar el tiempo correcto lavando las manos – lavar las manos durante 30 segundos se ha demostrado que elimina diez veces la cantidad de bacterias que lavarlas durante 15 segundos.
+La totalidad del procedimiento de lavado de manos, si se hace correctamente, debería durar entre 40 y 60 segundos.
+Se recomienda lavar las manos con jabón y agua (en lugar de utilizar un desinfectante para manos a base de alcohol) en las siguientes situaciones:
+Si las manos están visiblemente sucias o manchadas, o contaminadas con sangre o otros líquidos corporales.
+Cuando se sospecha o se prueba la exposición a patógenos formadores de esporas, incluidas las epidemias de *Clostridium difficile* (una infección bacteriana que causa diarrea severa), se elimina físicamente las esporas de las manos con el fricción del lavado de manos con jabón y agua.
+Las siguientes imágenes explican paso a paso la forma correcta de lavarse las manos con jabón y agua.
+Una versión en PDF de estos pasos se puede descargar aquí.
+Lávate las manos con agua;
+Aplicar suficiente jabón para cubrir todas las superficies de la mano.
+2. Frote las manos palma a palma;
+3. Palma derecha sobre el dorso izquierdo con dedos entrelazados y viceversa.
+4. Palma a palma con los dedos entrelazados;
+5. Espalda de los dedos a las palmas opuestas con dedos entrelazados.
+Frotamiento rotatorio de pulgar izquierdo apretado en palma derecha y viceversa;
+7. Frotamiento rotativo, hacia atrás y hacia adelante con dedos cerrados de la mano derecha en palma izquierda y viceversa.
+Lava las manos con agua.
+Seca las manos completamente con una toalla de un solo uso.
+10. Utilice una toalla para apagar el grifo;
+Ahora tus manos están seguras.
+Secar las manos después de usar jabón y agua es un paso importante de la higiene de las manos después de usar jabón y agua, porque la transmisión de microorganismos es más probable que ocurra con la piel húmeda que con la piel seca.
+Secar las manos completamente con un método que no las re-contamine ni las irrite, como:
+Secado al aire (secado manual mediante movimiento de manos).
+Usar un papel toalla o un paño de uso único para enjugar las manos—no se deben utilizar toallas varias veces o por varias personas, porque las toallas compartidas se contaminan rápidamente.
+No se recomiendan secadoras de aire caliente para secar las manos en establecimientos de salud, ya que el aire forzado puede provocar la propagación de patógenos a través de gotas de agua.
+Practica con jabón y agua
+Ahora que has aprendido la forma correcta de lavarte las manos, practica esta técnica.
+Tienes a un compañero de trabajo que revise la Lista de Verificación para Lavado de Manos con Jabón y Agua y observa como te lavas las manos.
+Pídale a él o a ella que te dé retroalimentación, luego responde a las preguntas en la página siguiente para comprobar tu comprensión.
+Limpie las manos con alcohol-based handrub (ABHR)
+La desinfección de manos con alcohol es la elección preferida para la higiene de las manos si no están visiblemente sucias, porque el ABHR es más efectivo en matar microorganismos que los jabones o detergentes antimicrobianos simples y el agua, y tiene otras grandes ventajas.
+El alcohol en ABHR mata microorganismos denaturando proteínas (es decir, disuelve algunas componentes de los microbios).
+También tiene actividad persistente, lo que significa que le toma más tiempo a los microorganismos para repoblar las manos.
+La higiene de las manos con ABHR tiene ventajas sobre la higiene de las manos con jabón y agua, incluyendo:
+Toma menos tiempo—solo 20 a 30 segundos.
+En un entorno laboral muy ocupado, ABHR puede ahorrarte tiempo.
+ABHR puede colocarse directamente en el punto de atención, lo que lo hace conveniente y fácil de realizar la higiene de las manos dentro de su flujo de trabajo clínico.
+La higiene de las manos con ABHR no requiere fregaderos, agua o toallas—las manos se secan en el aire.
+Es importante tener en cuenta que el ingrediente activo—el alcohol—es inflamable, y que debes ser cuidadoso y asegurarte de que cualquier ABHR esté almacenado lejos de llamas.
+La siguiente imagen muestra los pasos de cómo utilizar correctamente el alcohol en gel para la higiene de las manos.
+Una versión en formato PDF de estos pasos se puede descargar aquí.
+*(Se encuentran las formulaciones de la OMS para la preparación quirúrgica de las manos en la sección de Recursos de este curso y en la parte inferior de esta página, después de revisar los siguientes pasos).*
+Aplicar una cucharada del producto en una mano con forma de taza, cubriendo todas las superficies;
+7. Frotamiento rotativo, hacia atrás y hacia adelante con dedos apretados de la mano derecha en la palma de la izquierda y viceversa.
+8. Una vez secos, tus manos están seguras.
+Una versión en PDF de la Guía de la OMS *Guía para la producción local: formulaciones recomendadas por la OMS para desinfección de manos* puede descargarse aquí.
+Practica con alcohol gel para manos (ABHR)
+Ahora que has aprendido sobre la aplicación adecuada de ABHR, practica esta técnica.
+Tiene un compañero de trabajo que revise la *Lista de Verificación para Higiene de Manos con Limpador de Manos a Base de Alcohol*, y observe cómo aplicas ABHR a tus manos.
+Pídale que te dé retroalimentación, luego responde a las preguntas en la siguiente página para verificar tu comprensión.
+Para instalaciones sin agua corriente, los sistemas de bajo costo, fabricados localmente, pueden ayudar a asegurar que el agua esté disponible para el lavado de manos (ver figura).
+Deben estar disponibles estaciones de higiene de las manos tanto en áreas clínicas dentro de la instalación de atención médica como en áreas de servicio (esterilización, laboratorio, cocina, lavandería, duchas, etc.).
+Para la lavado de manos, siempre que se utilice jabón, no es necesario que la calidad del agua cumpla con los estándares para beber – aunque se deben hacer esfuerzos para usar agua limpia.
+Para sistemas con agua en contenedores cerrados, evite sumergir las manos en el contenedor, ya que esto puede contaminar el agua.
+En su lugar, alguien debería echar agua sobre las manos del usuario.
+El jabón debe estar dispuesto de manera que el agua no se acumule en su alrededor, para que el jabón se seque completamente.
+El jabón puede colocarse en una rejilla, o colgado en una red o con una cuerda.
+Para sistemas con grifo, es preferible detener el flujo de agua sin usar las manos (por ejemplo, grifos con mango largo que se pueden girar con el codo).
+Limpie y seque a fondo los contenedores y cubos diariamente para evitar el crecimiento de microorganismos.
+Se pueden necesitar unidades adicionales (contenedores y cubos) ya que el sistema no estará disponible para su uso mientras se limpia.
+Lesiones y Rotos de la Piel
+Para reducir los riesgos de reacciones de la piel causadas por el uso frecuente del jabón (como dermatitis de contacto) y otros daños de la piel, es importante promover prácticas de cuidado de la piel que ayuden a mantener la integridad de la piel, como:
+Evitar el uso concurrente de jabón y ABHR.
+Promoviendo ABHR para proteger la integridad de la piel (el lavado de manos frecuente con jabón puede provocar dermatitis de contacto)
+Proporcionar productos de higiene de las manos alternativos a los TAC que tienen alergias o reacciones adversas confirmadas a los productos estándar utilizados en la institución de atención de la salud.
+Las cutículas, las manos y los antebrazos deben estar libres de lesiones importantes (como úlceras, abscesos y tumores) y cortes.
+Deben cubrirse las heridas y lesiones más grandes con apósitos impermeables.
+Si tienes lesiones activas, no brindar cuidado directo al paciente ni participar en la cirugía hasta que estén sanadas.
+Uñas de los dedos, barniz de uñas y joyas ======================================
+Uñas largas, esmalte de uñas y joyas son obstáculos para la higiene de las manos y pueden promover el crecimiento bacteriano en las manos.
+Los espacios o grietas debajo de uñas artificiales o largas y joyas son difíciles de limpiar, y limitan el acceso a esas áreas.
+Los uñas naturales de las uñas de los dedos deberían mantenerse cortas, idealmente no extendiéndose más de 0,5 cm (menos de 1/4 de pulgada) más allá de los dedos.
+Se desaconsejan uñas artificiales o extendidas al trabajar en áreas clínicas.
+Si se viste el barniz de uñas, no debe estar arrugado.
+Se desaconseja fuertemente el uso de joyas, incluyendo anillos.
+Como alternativa, los anillos pueden colocarse en una sortija alrededor del cuello.
+Los equipos de cirugía deben retirar la joyería, incluyendo anillos, pulseras y relojes, antes de realizar la limpieza de manos quirúrgica.
+Crema para manos y cremas =======================
+Se deben usar cremas y lociones para las manos con precaución.
+Si se utilizan como productos compartidos, las tubos de loción y crema pueden provocar contaminación cruzada.
+Los productos de loción para manos, cremas o productos de cuidado de la piel hidratante se utilizan para minimizar la sequedad y dermatitis de contacto relacionadas con la higiene de las manos debido a la frecuente lavado de manos.
+Cremas para manos a base de aceite que contienen jalea de petróleo no deben usarse, porque pueden dañar los guantes de goma de látex.
+Consideraciones religiosas y culturales =====================================
+El equipo de IPC del centro de atención médica debe mantener conversaciones con el personal para identificar y abordar cualquier preocupación religiosa relacionada con la higiene de las manos y los productos utilizados para la higiene de las manos.
+El equipo del IPC debería consultar a líderes religiosos y ofrecer alternativas que sean aceptables religiosamente para el personal.
+La higiene de las manos es un componente crítico de la prevención y el control de las infecciones.
+Este módulo ha explicado cómo realizar higiene de las manos en los momentos adecuados puede ayudar a prevenir la propagación de microorganismos perjudiciales.
+Al identificar y aplicar los 5 momentos de higiene de manos de la OMS en su centro de atención de salud, puede comprender por qué la higiene de manos debe realizarse en esos momentos críticos.
+Ahora puede demostrar técnicas de higiene de las manos con jabón y agua y ABHR.
+En este módulo, también hemos discutido consideraciones especiales para instalaciones sin agua corriente, así como otros materiales, sustancias o creencias que pueden afectar la higiene de las manos en su instalación.
+Entender cómo incorporar prácticas de higiene de las manos en su instalación fortalecerá la eficiencia de su programa de IPC.
+Los siguientes son recursos adicionales de higiene de las manos.
+Mientras que la mayoría son documentos descargables, uno es un enlace a la página principal del sitio web de la OMS.
+Esta fuente está etiquetada [enlace de página web].
+Las directrices de la OMS de 2009 sobre la higiene de las manos en la atención de la salud proporcionan a los trabajadores de la salud (HCW), administradores de hospitales y autoridades de salud una revisión exhaustiva de la evidencia sobre la higiene de las manos en la atención de la salud y recomendaciones específicas para mejorar las prácticas y reducir la transmisión de microorganismos patógenos a pacientes y HCW.
+Una Guía para la Implementación de la Estrategia de Mejora de la Higiene de las Manos de la OMS ayuda en el desarrollo de planes de acción locales para abordar la mejora y sostenibilidad de la higiene de las manos.
+Guía para la producción local: Formulaciones de jabón para manos recomendadas por la OMS es una guía práctica para su uso en la estantería de la farmacia durante la preparación real de la formulación.
+También resume información técnica de fondo esencial.
+Protocolo para la Evaluación de Tolerabilidad y Aceptabilidad del Desinfectante de Manos con Alcohol en Uso o Planeado para Ser Introducido: Método 1 (revisado agosto 2009)
+Protocolo para la Evaluación y Comparación de la Tolerabilidad y Aceptabilidad de Diferentes Desinfectantes para las Manos con Alcohol: Método 2 (revisado agosto 2009)
+La evidencia de la higiene de las manos para reducir la transmisión e infecciones por organismos resistentes a múltiples medicamentos en entornos de atención médica es una revisión sistemática de la literatura sobre la higiene de las manos.
+WHO proporciona herramientas y recursos de Higiene de las Manos para adoptar y adaptar a fin de apoyar la mejora local en la higiene de las manos.
+Manual Técnico de Higiene de las Manos fue desarrollado para ayudar a los trabajadores de la atención médica a implementar mejoras en su instalación como parte de una estrategia multimodal y de acuerdo con las Directrices de la OMS sobre Higiene de las Manos en la Atención de la Salud.
+* 5 Momentos para la Higiene de las Manos: Enfoque en cuidar a un paciente con una herida postoperatoria
+La Higiene de las Manos y la Trayectoria del Paciente Quirúrgico
+Cómo Hacer un Enjuague de Manos (fuera de la sala de operaciones)
+Cómo Lavarse las Manos (fuera del quirófano)
+Marco de Autoevaluación de Higiene de las Manos 2010 es una herramienta sistemática con la que obtener un análisis de situación de la promoción y las prácticas de higiene de las manos dentro de una instalación de atención de la salud individual.
+Formulario de Observación de Higiene de las Manos es una herramienta para que las instalaciones de atención de la salud monitoreen las prácticas de higiene de las manos de su personal.
+La Encuesta de Consumo de Jabón/Desinfectante para Manos es una herramienta que proporciona un modelo simple para medir el consumo de productos (por ejemplo, jabón y desinfectantes para manos con alcohol) asociados con la implementación de una estrategia de mejora de la higiene de las manos.
+El apoyo de los componentes de la OMS ayuda a los países a desarrollar y ejecutar sus planes de acción nacionales contra la resistencia a los antimicrobianos (AMR), entre otros aspectos de la fortalecimiento del sistema de salud.
+Las Directrices de Componentes Fundamentales de la OMS cubren ocho áreas de IPC y comprenden 14 recomendaciones y declaraciones de mejores prácticas.
+Mejorar la Prevención y Control de Infecciones en el Guía de la Instalación de Salud es un manual práctico que describe cómo implementar las Directrices del Componente Fundamental.
+La estrategia Multimodal de la OMS consta de varios elementos (3 o más; usualmente 5) implementados de manera integrada para guiar la acción y proporcionar un enfoque claro para el implementador.
+El Marco de Evaluación de Prevención y Control de Infecciones (IPCAF) de la Organización Mundial de la Salud (OMS) es una herramienta que puede proporcionar una evaluación de línea de base de las actividades del programa de IPC dentro de una instalación de atención de la salud, así como evaluaciones continuas a través de la administración repetida para documentar el progreso con el tiempo.
+Manual Práctico Interino para Apoyar la Implementación Nacional de las Directrices de la OMS sobre Componentes Fundamentales de los Programas de Prevención y Control de Infecciones es un recurso para fortalecer la IPC y mejorar la calidad y la seguridad de la prestación de servicios de salud a través de la establecimiento de programas de IPC basados en evidencia y adaptados localmente integrados.
+Informe sobre la carga de la infección asociada a la atención médica endémica a nivel mundial presenta la evidencia disponible de la literatura científica sobre la carga endémica de los tipos más frecuentes de ICAI y ofrece una evaluación de las diferencias epidemiológicas entre países según los niveles de ingreso.
+El informe también tiene como objetivo identificar las principales barreras y brechas para evaluar la magnitud del impacto de las HCAI a nivel mundial e identificar soluciones y perspectivas futuras para mejorar.
+Se emitirá un **Registro de Logro** a los participantes que obtengan **al menos un 70%** en esta prueba posterior.
+Tiene un número ilimitado de intentos para alcanzar el umbral.
+Puedes descargar la presentación con una tabla de contenido interactiva aquí
+Puede descargar la presentación con una tabla de contenido interactiva aquí.
+Para obtener más información sobre **sarna**, OpenWHO tiene un curso en línea aquí.
+Para obtener más información sobre la **tungiasis** OpenWHO tiene un curso en línea aquí.
+Hipopigmentación/ depigmentación: generalizada o localizada
+Hipopigmentación/ depigmentación: distribución seborreica, placas, edema y superficie cutánea completa
+Para obtener más información sobre **micetoma**, OpenWHO tiene un curso en línea aquí
+Para obtener más información sobre la **podoconiosis**, OpenWHO tiene un curso en línea aquí.
+Sección 1, Parte 1: Nódulos cutáneos singulares o pocos: cualquier distribución
+Sección 1, Parte 2: Nódulos cutáneos únicos o pocos: distribución esporotricoides y migratoria
+Ulceras en el pie, la pierna y la cara
+Estás comenzando ahora el curso en línea.
+Un **Registro de Logro** está disponible para los participantes que obtengan al menos un 80% en la evaluación final.
+Los participantes que reciben un Certificado de logro también pueden descargar una Beca Abierta para este curso.
+Haz clic aquí para saber cómo.
+Por favor, tenga en cuenta que los diapositivas están disponibles para descargar aquí.
+La Alianza Internacional para el Control de la Sarna - www.controlscabies.org IACS es una red global de investigadores, clínicos y expertos en salud pública comprometidos con el control de la sarna humana y la promoción de la salud y el bienestar de todos aquellos que viven en comunidades afectadas.
+El Programa Mundial de Sarna - www.worldscabiesprogram.org/ El WSP trabaja con gobiernos y socios para eliminar la sarna como problema de salud pública.
+Este programa tiene como objetivo poner el control de la sarna en las agendas nacionales y globales, proporcionar orientación y apoyo para la implementación de estrategias de tratamiento de alcance comunitario y fortalecer los sistemas de salud para monitorear y gestionar la sarna.
+Módulo 2: Epidemiología de la sarna
+Módulo 4: Diagnóstico y tratamiento
+Módulo 5: Consideraciones de salud pública
+Estás comenzando ahora el curso en línea.
+Un **Registro de Logro** está disponible para los participantes que obtengan al menos un 80% en la evaluación final.
+Participantes que reciben un Certificado de Logro pueden descargar también un Open Badge para este curso.
+Haz clic aquí para saber cómo.
+Por favor tenga en cuenta que los diapositivas están disponibles para su descarga aquí.
+Reconociendo enfermedades tropicales desatendidas a través de cambios en la piel; Un manual de capacitación para trabajadores de la salud de primera línea (OMS 2018) Descargar aquí
+PAHO - información sobre enfermedades ectoparasitarias incluyendo la tungiasis Ver la página web aquí aquí
+Módulo 2: Epidemiología de la tungiasis
+Módulo 3: Patogénesis, patología clínica y diagnóstico
+Módulo 4: Tratamiento y prevención
+Módulo 5: Estigmatización y impacto socioeconómico; Intervenciones de salud pública.
+Recursos: Marco para un Centro de Operaciones de Emergencia de Salud Pública
+Por favor, encuentre los enlaces a continuación a los documentos principales discutidos en este curso.
+Puede ser útil descargarlos ahora para poder referirte a ellos durante el curso.
+* Marco para un Centro de Operaciones de Emergencia en Salud Pública + Manual Parte A + Manual Parte B (en desarrollo) + Manual Parte C
+Módulo 1 Prueba: Preguntas de control del aprendizaje
+Respóndase a las siguientes preguntas sobre el contenido cubierto en este módulo.
+Módulo 2 Quiz: Preguntas de verificación del aprendizaje
+Es hora de prepararse y empezar.
+En esta sesión, aprendiste sobre la justificación de TPT y por qué debe ser priorizado en la lucha contra la TB, teniendo en cuenta los riesgos, beneficios y cuestiones éticas.
+En la próxima sesión, aprenderás sobre la carga global de la tuberculosis y la importancia de implementar acciones preventivas de la Estrategia End TB, incluyendo la escalada de TPT para cumplir con los compromisos de la reunión de alto nivel de las Naciones Unidas de proporcionar TPT para 2022.
+En esta sesión, aprendiste sobre la importancia de la escalada de TPT como parte de la estrategia contra la tuberculosis para cumplir con los compromisos de la reunión de alto nivel de las Naciones Unidas para la provisión de TPT.
+En la próxima sesión, aprenderá sobre el enfoque de la cascada de atención y cómo puede apoyar la introducción de los servicios de TPT en los programas de salud.
+Este documento ofrece una visión general de los problemas éticos relacionados con la infección por TB, con un enfoque en aspectos relevantes para el desarrollo e implementación de la política de salud pública.
+2013;34(1):271–86 Este artículo modela los efectos de varias intervenciones en el control de la TB, ilustrando la importante contribución del tratamiento de la infección por TB.
+1979;119(5):827–30 Este informe final de un estudio sobre el efecto protector del tratamiento preventivo de isoniacida entre los esquimales de Alaska mostró que el efecto protector persistió durante más de 19 años.
+2020;92:S31–6 Este artículo ofrece una breve encuesta histórica de los estudios sobre el efecto protector del tratamiento preventivo de la tuberculosis a nivel individual y poblacional.
+En esta sesión, aprendió sobre los componentes clave necesarios para la gestión programática efectiva, implementación y escalado de TPT.
+En la próxima sesión, aprenderá sobre el papel de los mecanismos de coordinación que deben establecerse a nivel nacional para guiar y apoyar este proceso.
+Llamado a la Acción 2.0: Un impulso global para escalar la prevención de la TB La OMS y sus socios instan a los gobiernos y otras partes interesadas a acelerar la cobertura del tratamiento preventivo de la TB para los contactos de las personas con TB y otros que lo necesitan.
+En esta sesión, aprendió los pasos clave para identificar y priorizar poblaciones objetivo para TPT.
+En la próxima sesión, aprenderá sobre estrategias para llegar a diferentes poblaciones objetivo y cómo fortalecer la evaluación sistemática de individuos en contacto con pacientes con TB.
+Herramientas de Implementación de TPT Una biblioteca de recursos creada por IMPAACT4TB para ayudar a los países a implementar TPT (centrada en 3HP).
+Un conjunto de herramientas de trabajo para programas de atención médica, destinado a su adaptación local.
+La Investigación de Contactos de TB Para Trabajadores de Línea Frontera Esta capacitación brinda a los miembros del personal de primera línea detalles útiles sobre cómo realizar las acciones clave para la investigación de contactos de TB en el hogar.
+5.3 Características del test de la piel con tuberculina y de los ensayos de liberación de interferón-gamma
+En la sesión anterior, aprendiste los pasos principales que debes seguir para descartar la enfermedad de la tuberculosis y evaluar la elegibilidad para el tratamiento con isoniazida preventiva.
+Se discutieron las consideraciones para el uso de la prueba de la reacción cutánea a la tuberculina (TST) o las pruebas de liberación de interferón-gamma (IGRA) para detectar la infección por TB.
+Haga clic **aquí** para obtener más información sobre diferentes aspectos de las pruebas para ayudarlo a decidir cuál es la mejor para utilizar en circunstancias locales; la información también puede ayudar en la planificación de la implementación.
+Video de entrenamiento: Prueba de piel con tuberculina Un breve clip para mostrar cómo se realiza la TST
+6.3 Comparación de regímenes de tratamiento preventivo de TB
+Haga clic **aquí** para obtener más información sobre las ventajas y desventajas de diferentes regímenes de tratamiento preventivo de la tuberculosis y las características de cada uno, incluyendo dosis, carga de píldoras y idoneidad para su uso en niños.
+Puedes utilizar la información para ayudarte a decidir qué regímenes son más adecuados para su uso en grupos de objetivo específicos, contextos y entornos.
+2006;12(5):744–51 Esta revisión sistemática y meta-análisis informa un riesgo relativo resumido para la TB resistente a la isoniacida (no estadísticamente significativo) después del tratamiento preventivo con isoniacida, aunque existían datos limitados.
+Rev Int Tuberc Lung Dis.
+2016;20(8):1065–71 Esta revisión sistemática y meta-análisis informa niveles similares de TB resistente a la rifampicina después del uso de tratamiento preventivo de TB que contiene rifamicina.
+Esta revisión evaluó el conocimiento actual sobre la seguridad del IPT en el embarazo.
+En esta sesión, aprendió diferentes estrategias para apoyar la adherencia al tratamiento para el TPT utilizando un enfoque centrado en las personas, así como cómo abordar las barreras identificadas.
+En la próxima sesión, aprenderá sobre la monitoreo del tratamiento adecuado para garantizar la provisión segura de TPT y cómo gestionar las interrupciones del tratamiento.
+También aprenderá sobre diferentes modelos de entrega de servicios de TPT.
+Un Guía del Activista Para El Tratamiento De La Infección De TB Con Rifapentina Informa a las personas en riesgo de TB sobre TPT basado en rifapentina y mensajes de defensa para promover el acceso equitativo a la rifapentina.
+Información sobre nitrosaminas y medicamentos contra la tuberculosis: Nota y preguntas frecuentes del paciente. Proporciona información sobre la contaminación con nitrosaminas del rifampicina y la rifapentina y incluye una representación del riesgo potencial cuando se utilizan como TPT.
+La entrega de servicios diferenciados Este recurso resume las aproximaciones de entrega de servicios diferenciados que simplifican y adaptan los servicios del VIH a lo largo de la cadena para reflejar las preferencias y expectativas de las personas que viven con el VIH, mientras se reduce la carga innecesaria en el sistema de salud.
+La efectividad de 3HP anual vs una vez para personas con VIH: El ensayo WHIP3TB (croiconference.org) En este ensayo, se compararon las tasas de completación y la efectividad del régimen de isoniazida (900 mg) y rifapentina (900 mg) semanalmente durante 12 semanas (3HP) con 6 meses de isoniazida diaria (6H) como tratamiento preventivo de la TB entre personas con VIH.
+2016;16(11):1269–78 Este artículo informa los resultados de una revisión sistemática del manejo programático de la cascada de tratamiento preventivo de la tuberculosis.
+Sólo el 18.8% de las poblaciones objetivo comenzaron y completaron el tratamiento preventivo de TB.
+La reunión de alto nivel de las Naciones Unidas (actualizada en noviembre de 2019) La primera reunión de alto nivel de la Asamblea General de las Naciones Unidas sobre tuberculosis el 26 de septiembre de 2018 aprobó una declaración política ambiciosa y poderosa para acelerar el progreso hacia los objetivos de Erradicar la TB.
+Resolución A/RES/78/5, adoptada por la Asamblea General de las Naciones Unidas el 5 de octubre de 2023.
+Resolución A/RES/78/5, adoptada por la Asamblea General de las Naciones Unidas el 5 de octubre de 2023, a raíz de la aprobación de la reunión de alto nivel de la Asamblea General sobre la lucha contra la tuberculosis, el 22 de septiembre de 2023.
+Aplicación PREVENT-TB Una aplicación prototipo para demostrar las variables necesarias para generar indicadores TPT y más, con configuración personalizable y tableros de instrumentos.
+9.3 Áreas sugeridas para la investigación epidemiológica y operativa
+El WHO anima a la investigación operativa sobre las barreras y facilitadores específicos del contexto para el uso de la terapia preventiva de la tuberculosis (TPT).
+La investigación operativa, o investigación de implementación, genera evidencia sobre la aceptabilidad, la factibilidad, la equidad y la asequibilidad de introducir el TPT y para modelos específicos de atención.
+La eficacia o seguridad de los regímenes de TPT se evalúa generalmente en ensayos y no mediante investigaciones operativas.
+La OMS realiza una revisión exhaustiva de la última evidencia de ensayos clínicos sobre si un medicamento o un régimen funciona antes de emitir directrices.
+Un estudio local para reproducir tales ensayos puede no lograr el mismo rigor y generar resultados concluyentes.
+Esta práctica es por lo tanto innecesaria e inapropiada y retrasaría la escalada de la TPT, privando a las poblaciones vulnerables de sus beneficios en el interim.
+Los grupos técnicos nacionales deben definir un programa de trabajo para la investigación operativa según las necesidades nacionales e identificar prioridades de investigación globalmente reconocidas.
+Estos grupos también deberían estar involucrados en el diseño de protocolos de investigación, en colaboración con institutos de investigación, implementadores locales y socios técnicos.
+Los socios de implementación, los donantes, las instituciones académicas y las organizaciones no gubernamentales pueden proporcionar financiamiento y realizar investigaciones operativas.
+Los resultados y las mejores prácticas identificados en dichas investigaciones deberían compartirse en publicaciones revisadas por pares y difundirse a través de webinars y en conferencias.
+Haga clic **aquí** para una lista (no exhaustiva) de áreas de investigación epidemiológica y operativa.
+Int J Tuberc Lung Dis.
+2020;24(1):100–9 Este artículo presenta los resultados de una revisión sistemática y metaanálisis para estimar el efecto de diferentes intervenciones en la reducción de pérdidas en la cascada de tratamiento preventivo de la TB antes de la finalización del tratamiento.
+Se identificaron un número de intervenciones para fortalecer la adherencia, incluyendo incentivos para los pacientes, educación para trabajadores de la salud y pacientes, visitas a domicilio, soluciones digitales y recordatorios para pacientes.
+Marco de Rendición de Cuentas Multisectorial de la OMS para la TB (MAF-TB) Evaluación de Referencia para uso del país en la persecución de un MAF-TB Abordar los 4 componentes del MAF-TB y los elementos clave dentro de los componentes.
+Se emitirá un registro de logros cuando obtengas al menos un 80% en esta evaluación final.
+Tienes intentos ilimitados para alcanzar el umbral.
+Ha terminado el curso de capacitación en línea **Tratamiento preventivo de la tuberculosis**, y nos gustaría saber sobre su experiencia.
+Por favor, haga clic en **aquí** para iniciar la encuesta de evaluación del final del curso.
+Este curso en línea fue desarrollado por el Programa Global de la OMS contra la TB en colaboración con la Fundación KNCV de la Tuberculosis (KNCV).
+Muchas gracias a Agnes Gebhard, Connie Erkens, Mustapha Gidado, Emmy van der Grinten, Ineke Huitema, Ieva Leimane, Inge Koppelaar, Lilian Polderman, Jerod Scholten, Fran Tain.
+Dentro del Programa Global de la OMS contra la TB, se produjeron materiales de capacitación por un equipo de 13 personas clave: Annemieke Brands, Hannah Monia Dias, Dennis Falzon, Medea Gegia, Karina Halle, Nazir Ismail, Ernesto Jaramillo, Avinash Kanchar, Carl-Michael Nathanson, Liesbeth Oey, Cicilia Gita Parwati, Sabine Verkuijl y Yi Wang.
+El desarrollo del contenido técnico estuvo liderado por Dennis Falzon y Avinash Kanchar bajo la supervisión general de Matteo Zignol.
+La supervisión general de la producción de este curso en línea se realizó bajo la dirección del Director del Programa Global de TB, Tereza Kasaeva.
+El Programa de la OMS contra la tuberculosis agradece con gratitud la contribución proporcionada por el personal de la Oficina Regional de la OMS durante la fase de planificación y desarrollo.
+Gracias especiales a Pedro Avedillo, Kenza Bennani, Oscar Bernal, Vineet Bhatia, Martin Van Den Boom, Jean de Dieu Iragena, Tauhid Islam, Partha Pratim Mandal, Ernesto Montoro, André Ndongosieme, Rafael Lopez Olarte, Kalpesh Rahevar, Mukta Sharma, y Askar Yedilbayev.
+Fueron los siguientes los que se involucraron en el desarrollo del contenido visual: Eric van den Berg, Graphic Islands (Tom van Staveren), Rebekka van Harskamp, Tro-Tro Productions, y Southern Lantern Studios.
+Los materiales de entrenamiento fueron editados por Elisabeth Heseltine.
+La producción del curso en línea también fue apoyada por The Global Fund para luchar contra el SIDA, la tuberculosis y la malaria y la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID).
+Paquete de capacitación para el test de diagnóstico rápido de antígeno SARS-CoV-2
+Pruebas diagnósticas rápidas que detectan antígeno de SARS-CoV-2: una guía de implementación - *Ginebra: Organización Mundial de la Salud; 2020.
+Licencia: CC BY-NC-SA 3.0 IGO.
+Diagnóstico de antígenos en la detección de infección por SARS-CoV-2 mediante inmunoenzimáticos rápidos - Orientación provisional – 11 de septiembre.
+Ginebra: Organización Mundial de la Salud; 2020*
+Prevención y control de la infección durante la atención de la salud cuando se sospecha o confirma la enfermedad del coronavirus (COVID-19) - Orientación intermedia, 29 de junio de 2020.
+Guía de seguridad biológica del laboratorio relacionada con la enfermedad del coronavirus (COVID-19) - *Guía interina, 28 de enero de 2021.
+4ª edición - Ginebra: Organización Mundial de la Salud; 2021
+Directrices sobre regulaciones para el transporte de sustancias infecciosas 2021-2022 - *Ginebra: Organización Mundial de la Salud; 2021*
+Curso de OpenWHO: COVID-19: Cómo colocar y quitar equipo de protección personal (EPP)
+Por favor responda a las siguientes preguntas.
+Recursos: Orientación para el desarrollo de un plan de despliegue nacional y de vacunación para las vacunas contra el COVID-19 y otros recursos
+**Por favor, tenga en cuenta que el documento de orientación mencionado en este módulo y discutido a lo largo de este curso se puede acceder a través del siguiente enlace:**
+Guía para el desarrollo de un plan de despliegue y vacunación nacional para las vacunas contra la COVID-19
+Vacuna Moderna COVID-19 (mRNA-1273)
+Un **Registro de logro** está disponible para los participantes que obtengan al menos un 80% en la evaluación final.
+Los participantes que reciben un Record of Achievement también pueden descargar una Open Badge para este curso.
+Haga clic aquí para saber cómo.
+Resolución de la Asamblea Mundial de la Salud sobre el plan de acción para enfermedades tropicales desatendidas 2021-2030: WHA73(33) (2020) Descargar
+Lograr los Objetivos de Desarrollo Sostenible: un mapa de ruta para las enfermedades tropicales negligenciadas 2021-2030 Descargar
+Atención a la salud comunitaria, incluyendo la atención de alcance y campañas, en el contexto de la pandemia de COVID-19: orientación intermedia.
+Consideraciones para la implementación de tratamiento masivo, búsqueda activa de casos y encuestas basadas en la población para enfermedades tropicales desatendidas en el contexto de la pandemia de COVID-19: orientación interina.
+Mantener los servicios de salud esenciales: orientación operativa para el contexto de la COVID-19.
+5 de mayo de 2020 (**disponible en formato PDF bajo Recursos en el Módulo 3**)
+27 de julio de 2020 (disponible en formato PDF bajo Recursos en Módulo 3)
+1 de junio de 2020 (**disponible en formato PDF bajo Recursos en el Módulo 3**)
+Estás empezando este curso en línea.
+Un Certificado de Logro está disponible para los participantes que obtengan **al menos un 80%** de los puntos totales disponibles en la evaluación final.
+Los participantes que reciban un Certificado de Logro también pueden descargar una Beca Abierta para este curso.
+Le pedimos cortésmente a todos los participantes seleccionados por la Organización Mundial de la Salud como reguladores para actividades de benchmarking que garanticen la finalización del entrenamiento en línea sobre cGBT como requisito previo.
+Si aún no ha realizado el entrenamiento, le animamos sinceramente a que haga clic en el enlace que se proporciona a continuación y complete el entrenamiento requerido antes de proceder más adelante.
+**Nota:** Le aconsejamos que solicite acceso a los enlaces de SharePoint solo si ha sido seleccionado por la Organización Mundial de la Salud como regulador para participar en actividades relacionadas con la evaluación de autoridades regulatorias.
+Gracias por vuestra cooperación.
+Prácticas regulatorias buenas en la regulación de productos médicos (GRP)
+Iniciativa de Autoridades Registradas por la OMS (WLA) https://www.who.int/initiatives/who-listed-authority-reg-authorities
+Prácticas de confianza adecuadas en la regulación de productos médicos: Principios y consideraciones de alto nivel (GRelP) https://apps.who.int/iris/bitstream/handle/10665/340323/9789240020900-es.pdf
+Guía de la OMS sobre la implementación de sistemas de gestión de calidad para las autoridades regulatorias nacionales - TRS 1025 - Anexo 13 https://www.who.int/publications/m/item/trs-1025-annex-13-sgc-anr
+Requisitos del sistema de gestión de calidad para las inspecciones nacionales https://www.who.int/publications/m/item/trs-1025-anexo-5-qms-inspecciones-nacionales
+Implementación de sistemas de gestión de la calidad en las autoridades reguladoras nacionales: Ejemplos y prácticas https://www.who.int/publicaciones/i/item/9789240022379
+Participantes que logren una puntuación de 80% o superior en esta evaluación calificada reciben un Registro de Logro.
+Ahora que has completado este curso, te invitamos a completar esta encuesta breve.
+Sus respuestas nos ayudarán a comprender mejor su experiencia de aprendizaje y cómo podemos mejorar nuestros cursos en línea.
+Por favor, acceda a la encuesta aquí.
+Estás comenzando ahora el curso en línea.
+Un Registro de Logro está disponible para los participantes que obtengan al menos un 80% en la evaluación final.
+Participantes que reciban un Record of Achievement también pueden descargar un Open Badge para este curso.
+Haga clic aquí para aprender cómo.
+Por favor responda a las siguientes preguntas:
