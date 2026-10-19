@@ -1,0 +1,17 @@
+torch
+transformers
+accelerate
+datasets
+sentencepiece
+protobuf
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+tqdm
+huggingface_hub
+openai
+sacrebleu
+evaluate
+unbabel-comet
